@@ -1,0 +1,17 @@
+model Posts {
+    id         Int     @id @default(autoincrement())
+    createdAt DateTime @default(now())
+    updatedAt DateTime @updatedAt
+    published Boolean
+    title      String
+    content    String
+    authorId String
+    author    User @relation(fields: [authorId], references: [id])
+
+    @@map("post")
+}
+
+model User {
+    id     String @id
+    posts  Posts[]
+}

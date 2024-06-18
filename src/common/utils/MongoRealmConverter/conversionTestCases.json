@@ -1,0 +1,403 @@
+{
+    "Basic values conversion": {
+        "String value": {
+            "input": {
+                "name": "Carl"
+            },
+            "output": "name == 'Carl'"
+        },
+        "Number value": {
+            "input": {
+                "age": 20
+            },
+            "output": "age == 20"
+        },
+        "Boolean value": {
+            "input": {
+                "is_married": true
+            },
+            "output": "is_married == true"
+        }
+    },
+    "$or operator": {
+        "Normal expression": {
+            "input": {
+                "$or": [{ "name": "Pedro" }, { "name": "Pablo" }]
+            },
+            "output": "(name == 'Pedro') OR (name == 'Pablo')"
+        },
+        "1 level deep": {
+            "input": {
+                "owner": {
+                    "$or": [{
+                            "name": "Pedro"
+                        },
+                        {
+                            "name": "Pablo"
+                        }
+                    ]
+                }
+            },
+            "output": "(owner.name == 'Pedro') OR (owner.name == 'Pablo')"
+        },
+        "5 levels deep": {
+            "input": {
+                "grandpa": {
+                    "son": {
+                        "son": {
+                            "son": {
+                                "son": {
+                                    "$or": [{
+                                            "name": "Pedro"
+                                        },
+                                        {
+                                            "name": "Pablo"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "output": "(grandpa.son.son.son.son.name == 'Pedro') OR (grandpa.son.son.son.son.name == 'Pablo')"
+        }
+    },
+    "$and operator": {
+        "Normal expression": {
+            "input": {
+                "$and": [{ "first_name": "Pedro" }, { "second_name": "Pablo" }]
+            },
+            "output": "(first_name == 'Pedro') AND (second_name == 'Pablo')"
+        },
+        "1 level deep": {
+            "input": {
+                "owner": {
+                    "$and": [{ "first_name": "Pedro" }, { "second_name": "Pablo" }]
+                }
+            },
+            "output": "(owner.first_name == 'Pedro') AND (owner.second_name == 'Pablo')"
+        },
+        "5 levels deep": {
+            "input": {
+                "grandpa": {
+                    "son": {
+                        "son": {
+                            "son": {
+                                "son": {
+                                    "$and": [
+                                        { "first_name": "Pedro" },
+                                        { "second_name": "Pablo" }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "output": "(grandpa.son.son.son.son.first_name == 'Pedro') AND (grandpa.son.son.son.son.second_name == 'Pablo')"
+        }
+    },
+    "Multiple properties (AND operator)": {
+        "Normal expression": {
+            "input": {
+                "first_name": "Pedro",
+                "second_name": "Pablo"
+            },
+            "output": "(first_name == 'Pedro') AND (second_name == 'Pablo')"
+        },
+        "1 level deep": {
+            "input": {
+                "owner": {
+                    "first_name": "Pedro",
+                    "second_name": "Pablo"
+                }
+            },
+            "output": "(owner.first_name == 'Pedro') AND (owner.second_name == 'Pablo')"
+        },
+        "5 levels deep": {
+            "input": {
+                "grandpa": {
+                    "son": {
+                        "son": {
+                            "son": {
+                                "son": {
+                                    "first_name": "Pedro",
+                                    "second_name": "Pablo"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "output": "(grandpa.son.son.son.son.first_name == 'Pedro') AND (grandpa.son.son.son.son.second_name == 'Pablo')"
+        }
+    },
+    "Text search": {
+        "Case sensitive": {
+            "Normal expression": {
+                "input": {
+                    "name": {
+                        "$regex": ".*berto"
+                    }
+                },
+                "output": "name LIKE '*berto'"
+            },
+            "1 level deep": {
+                "input": {
+                    "owner": {
+                        "name": {
+                            "$regex": ".*berto"
+                        }
+                    }
+                },
+                "output": "owner.name LIKE '*berto'"
+            },
+            "5 levels deep": {
+                "input": {
+                    "grandpa": {
+                        "son": {
+                            "son": {
+                                "son": {
+                                    "son": {
+                                        "first_name": {
+                                            "$regex": ".*berto"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "output": "grandpa.son.son.son.son.first_name LIKE '*berto'"
+            },
+            "$or on multiple fields": {
+                "input": {
+                    "owner": {
+                        "$or": [{
+                                "first_name": {
+                                    "$regex": ".*berto"
+                                }
+                            },
+                            {
+                                "last_name": {
+                                    "$regex": ".*berto"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "output": "(owner.first_name LIKE '*berto') OR (owner.last_name LIKE '*berto')"
+            },
+            "$and on multiple fields": {
+                "input": {
+                    "owner": {
+                        "$and": [{
+                                "first_name": {
+                                    "$regex": ".*berto"
+                                }
+                            },
+                            {
+                                "last_name": {
+                                    "$regex": ".*berto"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "output": "(owner.first_name LIKE '*berto') AND (owner.last_name LIKE '*berto')"
+            },
+            "Multiple fields": {
+                "input": {
+                    "owner": {
+                        "first_name": {
+                            "$regex": ".*berto"
+                        },
+                        "last_name": {
+                            "$regex": ".*berto"
+                        }
+                    }
+                },
+                "output": "(owner.first_name LIKE '*berto') AND (owner.last_name LIKE '*berto')"
+            }
+        },
+        "Case insensitive": {
+            "Normal expression": {
+                "input": {
+                    "name": {
+                        "$regex": ".*bErTo",
+                        "$options": "i"
+                    }
+                },
+                "output": "name LIKE[c] '*bErTo'"
+            },
+            "1 level deep": {
+                "input": {
+                    "owner": {
+                        "name": {
+                            "$regex": ".*bErTo",
+                            "$options": "i"
+                        }
+                    }
+                },
+                "output": "owner.name LIKE[c] '*bErTo'"
+            },
+            "5 levels deep": {
+                "input": {
+                    "grandpa": {
+                        "son": {
+                            "son": {
+                                "son": {
+                                    "son": {
+                                        "first_name": {
+                                            "$regex": ".*bErTo",
+                                            "$options": "i"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "output": "grandpa.son.son.son.son.first_name LIKE[c] '*bErTo'"
+            },
+            "$or on multiple fields": {
+                "input": {
+                    "owner": {
+                        "$or": [{
+                                "first_name": {
+                                    "$regex": ".*bErTo",
+                                    "$options": "i"
+                                }
+                            },
+                            {
+                                "last_name": {
+                                    "$regex": ".*bErTo",
+                                    "$options": "i"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "output": "(owner.first_name LIKE[c] '*bErTo') OR (owner.last_name LIKE[c] '*bErTo')"
+            },
+            "$and on multiple fields": {
+                "input": {
+                    "owner": {
+                        "$and": [{
+                                "first_name": {
+                                    "$regex": ".*bErTo",
+                                    "$options": "i"
+                                }
+                            },
+                            {
+                                "last_name": {
+                                    "$regex": ".*bErTo",
+                                    "$options": "i"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "output": "(owner.first_name LIKE[c] '*bErTo') AND (owner.last_name LIKE[c] '*bErTo')"
+            },
+            "Multiple fields": {
+                "input": {
+                    "owner": {
+                        "first_name": {
+                            "$regex": ".*bErTo",
+                            "$options": "i"
+                        },
+                        "last_name": {
+                            "$regex": ".*bErTo",
+                            "$options": "i"
+                        }
+                    }
+                },
+                "output": "(owner.first_name LIKE[c] '*bErTo') AND (owner.last_name LIKE[c] '*bErTo')"
+            }
+        }
+    },
+    "$in operator": {
+        "Normal expression": {
+            "input": {
+                "age": {
+                    "$in": [40, 20]
+                }
+            },
+            "output": "(age == 40) OR (age == 20)"
+        },
+        "1 level deep": {
+            "input": {
+                "owner": {
+                    "age": {
+                        "$in": [40, 20]
+                    }
+                }
+            },
+            "output": "(owner.age == 40) OR (owner.age == 20)"
+        },
+        "5 levels deep": {
+            "input": {
+                "grandpa": {
+                    "son": {
+                        "son": {
+                            "son": {
+                                "son": {
+                                    "age": {
+                                        "$in": [40, 20]
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "output": "(grandpa.son.son.son.son.age == 40) OR (grandpa.son.son.son.son.age == 20)"
+        }
+    },
+    "Complex queries": {
+        "Pedro or Pablo with age of 30": {
+            "input": {
+                "$or": [{ "first_name": "Pedro" }, { "first_name": "Pablo" }],
+                "age": 30
+            },
+            "output": "((first_name == 'Pedro') OR (first_name == 'Pablo')) AND (age == 30)"
+        },
+        "name is one of [Pedro, Pablo] with age of 30": {
+            "input": {
+                "first_name": {
+                    "$in": ["Pedro", "Pablo"]
+                },
+                "age": 30
+            },
+            "output": "((first_name == 'Pedro') OR (first_name == 'Pablo')) AND (age == 30)"
+        },
+        "All docs where the owner is a teacher or either 40 or 20 years old and has a class with name 'History'": {
+            "input": {
+                "classes.name": "History",
+                "owner": {
+                    "$or": [
+                        { "is_teacher": true },
+                        {
+                            "age": {
+                                "$in": [40, 20]
+                            }
+                        }
+                    ]
+                }
+            },
+            "output": "(classes.name == 'History') AND ((owner.is_teacher == true) OR ((owner.age == 40) OR (owner.age == 20)))"
+        }
+    },
+    "Array search": {
+        "Search 'aiz' on all translations": {
+            "input": {
+                "names.value": {
+                    "$regex": ".*aiz.*"
+                }
+            },
+            "output": "names.value LIKE '*aiz*'"
+        }
+    }
+}

@@ -1,0 +1,4664 @@
+[
+
+	{
+		"_id": "6274112ad2c7317f3270a13e",
+		"slug": "manu5",
+		"names": [{
+				"description": "NomMbre",
+				"value": "Ejemplo",
+				"language": "en",
+				"_id": "627408af1d64268c82f30504"
+			},
+			{
+				"description": "NomMbre2",
+				"value": "Exampla2",
+				"language": "es",
+				"_id": "627408af1d64268c82f3050a"
+			}
+		],
+		"tasks": [],
+		"created_at": "2022-05-05T18:01:56.365Z",
+		"updated_at": "2022-05-05T18:01:56.365Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62855ea87e5f23441a74b149",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "manu",
+		"names": [{
+				"description": "NomMbre1",
+				"language": "en",
+				"value": "Ejemplo"
+			},
+			{
+				"description": "NomMbre1",
+				"language": "es",
+				"value": "Examplae"
+			}
+		]
+	},
+	{
+		"_id": "628577c17532fe40e2392e8a",
+		"slug": "manu3",
+		"names": [{
+				"description": "NomMbre",
+				"value": "Ejemplo",
+				"language": "en",
+				"_id": "627408af1d64268c82f30504"
+			},
+			{
+				"description": "NomMbre2",
+				"value": "Exampla2",
+				"language": "es",
+				"_id": "627408af1d64268c82f3050a"
+			}
+		],
+		"tasks": [],
+		"created_by": "60411b8806cb61006fe22a19",
+		"created_at": "2022-05-18T22:48:23.839Z",
+		"updated_at": "2022-05-18T22:48:23.839Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "6285785449e3eb4465057583",
+		"slug": "manu3",
+		"names": [{
+				"description": "NomMbre",
+				"value": "Ejemplo",
+				"language": "en",
+				"_id": "627408af1d64268c82f30504"
+			},
+			{
+				"description": "NomMbre2",
+				"value": "Exampla2",
+				"language": "es",
+				"_id": "627408af1d64268c82f3050a"
+			}
+		],
+		"tasks": [],
+		"created_by": "60411b8806cb61006fe22a19",
+		"created_at": "2022-05-18T22:50:48.292Z",
+		"updated_at": "2022-05-18T22:50:48.292Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "6285817fef58ccc97aa89dda",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "manu",
+		"names": [{
+				"description": "NomMbre1",
+				"language": "en",
+				"value": "Ejemplo"
+			},
+			{
+				"description": "NomMbre1",
+				"language": "es",
+				"value": "Examplae"
+			}
+		]
+	},
+	{
+		"_id": "6286ee005a1145593a993956",
+		"slug": "manu3",
+		"names": [{
+				"description": "NomMbre",
+				"value": "Ejemplo",
+				"language": "en",
+				"_id": "627408af1d64268c82f30504"
+			},
+			{
+				"description": "NomMbre2",
+				"value": "Exampla2",
+				"language": "es",
+				"_id": "627408af1d64268c82f3050a"
+			}
+		],
+		"tasks": [],
+		"created_by": "60411b8806cb61006fe22a19",
+		"created_at": "2022-05-20T01:24:52.954Z",
+		"updated_at": "2022-05-20T01:24:52.954Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "6286ee405a1145593a993957",
+		"slug": "manu3",
+		"names": [{
+				"description": "NomMbre",
+				"value": "Ejemplo",
+				"language": "en",
+				"_id": "627418af1d64268c82f30504"
+			},
+			{
+				"description": "NomMbre2",
+				"value": "Exampla2",
+				"language": "es",
+				"_id": "627408af1d64268c82f3050a"
+			}
+		],
+		"tasks": [],
+		"created_by": "60411b8806cb61006fe22a19",
+		"created_at": "2022-05-20T01:24:52.954Z",
+		"updated_at": "2022-05-20T01:24:52.954Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "6286ee94e0c4595bd3c51bc1",
+		"slug": "manu3",
+		"names": [{
+				"description": "NomMbre",
+				"value": "Ejemplo",
+				"language": "en",
+				"_id": "627418af1d64268c82f30504"
+			},
+			{
+				"description": "NomMbre2",
+				"value": "Exampla2",
+				"language": "es",
+				"_id": "627408af1d64268c82f3050a"
+			}
+		],
+		"tasks": [],
+		"created_by": "60411b8806cb61006fe22a19",
+		"created_at": "2022-05-20T01:27:41.228Z",
+		"updated_at": "2022-05-20T01:27:41.228Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "6286ee98e0c4595bd3c51bc2",
+		"slug": "manu3",
+		"names": [{
+				"description": "NomMbre",
+				"value": "Ejemplo",
+				"language": "en",
+				"_id": "627418af1d64268c82f30501"
+			},
+			{
+				"description": "NomMbre2",
+				"value": "Exampla2",
+				"language": "es",
+				"_id": "627408af1d64268c82f3050a"
+			}
+		],
+		"tasks": [],
+		"created_by": "60411b8806cb61006fe22a19",
+		"created_at": "2022-05-20T01:27:41.228Z",
+		"updated_at": "2022-05-20T01:27:41.228Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62ad3e95a0b9854e68f69d7b",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "awesome_bronze_shirt",
+		"names": [{
+				"_id": "62ad3e953dac7f99a8afd9ba",
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"language": "en",
+				"value": "Gorgeous Soft Chair"
+			},
+			{
+				"_id": "62ad3e953dac7f99a8afd9bb",
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"language": "es",
+				"value": "Pequeño Hormigon Pelota"
+			},
+			{
+				"_id": "62ad3e953dac7f99a8afd9bc",
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"language": "pt_BR",
+				"value": "Prático Concreto Sabonete"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62ad3e95a0b9854e68f69d7c",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "lindo_aço_queijo",
+		"names": [{
+				"_id": "62ad3e953dac7f99a8afd9bd",
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"language": "en",
+				"value": "Awesome Soft Mouse"
+			},
+			{
+				"_id": "62ad3e953dac7f99a8afd9be",
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"language": "es",
+				"value": "Pequeño Acero Pizza"
+			},
+			{
+				"_id": "62ad3e953dac7f99a8afd9bf",
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"language": "pt_BR",
+				"value": "Impressionante Concreto Atum"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62ad3f0b09202328040f189e",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "tasty_steel_fish",
+		"names": [{
+				"_id": "62ad3f0a29f41162bfaf947d",
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"language": "en",
+				"value": "Recycled Metal Fish"
+			},
+			{
+				"_id": "62ad3f0a29f41162bfaf947e",
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"language": "es",
+				"value": "Refinado Acero Pelota"
+			},
+			{
+				"_id": "62ad3f0a29f41162bfaf947f",
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "pt_BR",
+				"value": "Gostoso Algodão Bacon"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62ad3f0b09202328040f189f",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "prático_metal_peixe",
+		"names": [{
+				"_id": "62ad3f0b29f41162bfaf9480",
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"language": "en",
+				"value": "Incredible Concrete Mouse"
+			},
+			{
+				"_id": "62ad3f0b29f41162bfaf9481",
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"language": "es",
+				"value": "Práctico Acero Zapatos"
+			},
+			{
+				"_id": "62ad3f0b29f41162bfaf9482",
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "pt_BR",
+				"value": "Fantástico Macio Bacon"
+			}
+		]
+	},
+	{
+		"_id": "62ad4050cc40cf2060cbc9b5",
+		"slug": "gorgeous_metal_bacon",
+		"names": [{
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"value": "Recycled Bronze Tuna",
+				"language": "en",
+				"_id": "62ad404fccef35c122d6dc73"
+			},
+			{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"value": "Fantástico Acero Ensalada",
+				"language": "es",
+				"_id": "62ad404fccef35c122d6dc74"
+			},
+			{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"value": "Genérico Concreto Chapéu",
+				"language": "pt_BR",
+				"_id": "62ad404fccef35c122d6dc75"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-18T03:02:33.968Z",
+		"updated_at": "2022-06-18T03:02:33.968Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62ad4050cc40cf2060cbc9b6",
+		"slug": "impressionante_borracha_queijo",
+		"names": [{
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"value": "Handmade Rubber Pizza",
+				"language": "en",
+				"_id": "62ad4050ccef35c122d6dc7b"
+			},
+			{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Refinado Acero Coche",
+				"language": "es",
+				"_id": "62ad4050ccef35c122d6dc7c"
+			},
+			{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"value": "Ergonômico Algodão Toalhas",
+				"language": "pt_BR",
+				"_id": "62ad4050ccef35c122d6dc7d"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-18T03:02:33.968Z",
+		"updated_at": "2022-06-18T03:02:33.968Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62ad40e35ed2e02958448f40",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "modern_steel_towels",
+		"names": [{
+				"_id": "62ad40e37bc028136aef8c4e",
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"language": "en",
+				"value": "Incredible Wooden Tuna"
+			},
+			{
+				"_id": "62ad40e37bc028136aef8c4f",
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"language": "es",
+				"value": "Fantástico Acero Ordenador"
+			},
+			{
+				"_id": "62ad40e37bc028136aef8c50",
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"language": "pt_BR",
+				"value": "Licenciado Granito Computador"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62ad40e35ed2e02958448f41",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "refinado_granito_bacon",
+		"names": [{
+				"_id": "62ad40e37bc028136aef8c51",
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"language": "en",
+				"value": "Bespoke Cotton Pizza"
+			},
+			{
+				"_id": "62ad40e37bc028136aef8c52",
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"language": "es",
+				"value": "Artesanal Metal Guantes"
+			},
+			{
+				"_id": "62ad40e37bc028136aef8c53",
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"language": "pt_BR",
+				"value": "Pequeno Concreto Salgadinhos"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62ad434df9e4e3358495ff21",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "bespoke_wooden_bacon",
+		"names": [{
+				"_id": "62ad434d3e1da616a5d2a780",
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"language": "en",
+				"value": "Fantastic Soft Tuna"
+			},
+			{
+				"_id": "62ad434d3e1da616a5d2a781",
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"language": "es",
+				"value": "Inteligente Madera Bicicleta"
+			},
+			{
+				"_id": "62ad434d3e1da616a5d2a782",
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"language": "pt_BR",
+				"value": "Prático Metal Salsicha"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62ad434df9e4e3358495ff22",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "genérico_plástico_bacon",
+		"names": [{
+				"_id": "62ad434d3e1da616a5d2a783",
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"language": "en",
+				"value": "Awesome Wooden Sausages"
+			},
+			{
+				"_id": "62ad434d3e1da616a5d2a784",
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"language": "es",
+				"value": "Guapa Hormigon Teclado"
+			},
+			{
+				"_id": "62ad434d3e1da616a5d2a785",
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"language": "pt_BR",
+				"value": "Refinado Borracha Peixe"
+			}
+		]
+	},
+	{
+		"_id": "62ad439ae2bc933a9489a2b8",
+		"slug": "refined_rubber_gloves",
+		"names": [{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Bespoke Soft Table",
+				"language": "en",
+				"_id": "62ad439905a662186daec39f"
+			},
+			{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Sorprendente Metal Ordenador",
+				"language": "es",
+				"_id": "62ad439905a662186daec3a0"
+			},
+			{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"value": "Licenciado Plástico Pizza",
+				"language": "pt_BR",
+				"_id": "62ad439905a662186daec3a1"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-18T03:16:35.563Z",
+		"updated_at": "2022-06-18T03:16:35.563Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62ad439ae2bc933a9489a2b9",
+		"slug": "inteligente_aço_bicicleta",
+		"names": [{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Refined Concrete Cheese",
+				"language": "en",
+				"_id": "62ad439a05a662186daec3a7"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Rústico Metal Pantalones",
+				"language": "es",
+				"_id": "62ad439a05a662186daec3a8"
+			},
+			{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Fantástico Macio Frango",
+				"language": "pt_BR",
+				"_id": "62ad439a05a662186daec3a9"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-18T03:16:35.563Z",
+		"updated_at": "2022-06-18T03:16:35.563Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afd241a2dd634748f110b0",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "genérico_macio_toalhas",
+		"names": [{
+				"_id": "62afd241cb266b743fe49a3c",
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"language": "en",
+				"value": "Incredible Rubber Tuna"
+			},
+			{
+				"_id": "62afd241cb266b743fe49a3d",
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"language": "es",
+				"value": "Rústico Hormigon Sopa"
+			},
+			{
+				"_id": "62afd241cb266b743fe49a3e",
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"language": "pt_BR",
+				"value": "Lindo Macio Salgadinhos"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afd241a2dd634748f110af",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "sleek_soft_gloves",
+		"names": [{
+				"_id": "62afd240cb266b743fe49a39",
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"language": "en",
+				"value": "Handcrafted Concrete Salad"
+			},
+			{
+				"_id": "62afd240cb266b743fe49a3a",
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"language": "es",
+				"value": "Refinado Algodón Teclado"
+			},
+			{
+				"_id": "62afd240cb266b743fe49a3b",
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"language": "pt_BR",
+				"value": "Lindo Aço Toalhas"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afd5ef204eef1758669609",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "pequeno_congelado_bola",
+		"names": [{
+				"_id": "62afd5ef1173b9b14183c266",
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "en",
+				"value": "Small Bronze Soap"
+			},
+			{
+				"_id": "62afd5ef1173b9b14183c267",
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"language": "es",
+				"value": "Genérico Hormigon Mesa"
+			},
+			{
+				"_id": "62afd5ef1173b9b14183c268",
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"language": "pt_BR",
+				"value": "Feito à mão Congelado Chapéu"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afd5ef204eef1758669608",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "gorgeous_metal_pants",
+		"names": [{
+				"_id": "62afd5ee1173b9b14183c263",
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"language": "en",
+				"value": "Handmade Bronze Hat"
+			},
+			{
+				"_id": "62afd5ee1173b9b14183c264",
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"language": "es",
+				"value": "Guapa Algodón Zapatos"
+			},
+			{
+				"_id": "62afd5ee1173b9b14183c265",
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "pt_BR",
+				"value": "Sem marca Macio Pizza"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afd620539ae731f8f06b15",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "modern_concrete_shirt",
+		"names": [{
+				"_id": "62afd6203899f93e323d32c9",
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"language": "en",
+				"value": "Generic Rubber Keyboard"
+			},
+			{
+				"_id": "62afd6203899f93e323d32ca",
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"language": "es",
+				"value": "Sorprendente Plástico Queso"
+			},
+			{
+				"_id": "62afd6203899f93e323d32cb",
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"language": "pt_BR",
+				"value": "Rústico Macio Computador"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afd620539ae731f8f06b16",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "rústico_algodão_pizza",
+		"names": [{
+				"_id": "62afd6203899f93e323d32cc",
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"language": "en",
+				"value": "Elegant Cotton Keyboard"
+			},
+			{
+				"_id": "62afd6203899f93e323d32cd",
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"language": "es",
+				"value": "Sabroso Algodón Guantes"
+			},
+			{
+				"_id": "62afd6203899f93e323d32ce",
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"language": "pt_BR",
+				"value": "Gostoso Plástico Atum"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afd68571ae6952a073e543",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "oriental_concrete_hat",
+		"names": [{
+				"_id": "62afd684e3044a10d764909d",
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "en",
+				"value": "Handcrafted Metal Ball"
+			},
+			{
+				"_id": "62afd684e3044a10d764909e",
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"language": "es",
+				"value": "Rústico Acero Pantalones"
+			},
+			{
+				"_id": "62afd684e3044a10d764909f",
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"language": "pt_BR",
+				"value": "Lustroso Plástico Toalhas"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afd68571ae6952a073e544",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "sem_marca_macio_queijo",
+		"names": [{
+				"_id": "62afd685e3044a10d76490a0",
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"language": "en",
+				"value": "Fantastic Soft Hat"
+			},
+			{
+				"_id": "62afd685e3044a10d76490a1",
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"language": "es",
+				"value": "Genérico Ladrillo Zapatos"
+			},
+			{
+				"_id": "62afd685e3044a10d76490a2",
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"language": "pt_BR",
+				"value": "Refinado Metal Mesa"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afd7a66537fb30b0fbfbd9",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "ergonomic_frozen_shirt",
+		"names": [{
+				"_id": "62afd7a665bff0861c1620fe",
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"language": "en",
+				"value": "Awesome Steel Computer"
+			},
+			{
+				"_id": "62afd7a665bff0861c1620ff",
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"language": "es",
+				"value": "Guapa Plástico Pizza"
+			},
+			{
+				"_id": "62afd7a665bff0861c162100",
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"language": "pt_BR",
+				"value": "Incrível Aço Salgadinhos"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afd7a66537fb30b0fbfbda",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "sem_marca_concreto_computador",
+		"names": [{
+				"_id": "62afd7a665bff0861c162101",
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"language": "en",
+				"value": "Gorgeous Fresh Pizza"
+			},
+			{
+				"_id": "62afd7a665bff0861c162102",
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"language": "es",
+				"value": "Práctico Hormigon Mesa"
+			},
+			{
+				"_id": "62afd7a665bff0861c162103",
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"language": "pt_BR",
+				"value": "Impressionante Metal Carro"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afd85ea7113f56641aef69",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "practical_wooden_computer",
+		"names": [{
+				"_id": "62afd85e13e8e9e49aaea310",
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "en",
+				"value": "Unbranded Bronze Computer"
+			},
+			{
+				"_id": "62afd85e13e8e9e49aaea311",
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"language": "es",
+				"value": "Ergonómico Madera Bacon"
+			},
+			{
+				"_id": "62afd85e13e8e9e49aaea312",
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"language": "pt_BR",
+				"value": "Incrível Concreto Peixe"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afd85fa7113f56641aef6a",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "genérico_fresco_peixe",
+		"names": [{
+				"_id": "62afd85f13e8e9e49aaea313",
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"language": "en",
+				"value": "Awesome Plastic Table"
+			},
+			{
+				"_id": "62afd85f13e8e9e49aaea314",
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"language": "es",
+				"value": "Sabroso Metal Ordenador"
+			},
+			{
+				"_id": "62afd85f13e8e9e49aaea315",
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"language": "pt_BR",
+				"value": "Feito à mão Algodão Bola"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afd92623c7683a7408dbd7",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "gorgeous_soft_salad",
+		"names": [{
+				"_id": "62afd92532bc193f99137497",
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"language": "en",
+				"value": "Ergonomic Soft Bike"
+			},
+			{
+				"_id": "62afd92532bc193f99137498",
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"language": "es",
+				"value": "Rústico Metal Sopa"
+			},
+			{
+				"_id": "62afd92532bc193f99137499",
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"language": "pt_BR",
+				"value": "Fantástico Madeira Salsicha"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afd92623c7683a7408dbd8",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "refinado_aço_atum",
+		"names": [{
+				"_id": "62afd92632bc193f9913749a",
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"language": "en",
+				"value": "Generic Steel Mouse"
+			},
+			{
+				"_id": "62afd92632bc193f9913749b",
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"language": "es",
+				"value": "Sabroso Algodón Patatas fritas"
+			},
+			{
+				"_id": "62afd92632bc193f9913749c",
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"language": "pt_BR",
+				"value": "Lustroso Borracha Salgadinhos"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afdbfcd9b3a019cc0327d7",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "ergonomic_steel_bacon",
+		"names": [{
+				"_id": "62afdbfb7ee35dc2bbb927d0",
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"language": "en",
+				"value": "Unbranded Wooden Keyboard"
+			},
+			{
+				"_id": "62afdbfb7ee35dc2bbb927d1",
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"language": "es",
+				"value": "Fantástico Plástico Guantes"
+			},
+			{
+				"_id": "62afdbfb7ee35dc2bbb927d2",
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"language": "pt_BR",
+				"value": "Incrível Granito Sabonete"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afdbfcd9b3a019cc0327d8",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "refinado_plástico_sabonete",
+		"names": [{
+				"_id": "62afdbfc7ee35dc2bbb927d3",
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"language": "en",
+				"value": "Generic Bronze Computer"
+			},
+			{
+				"_id": "62afdbfc7ee35dc2bbb927d4",
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"language": "es",
+				"value": "Sabroso Hormigon Coche"
+			},
+			{
+				"_id": "62afdbfc7ee35dc2bbb927d5",
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"language": "pt_BR",
+				"value": "Rústico Granito Sabonete"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afdc82d7ffe328ec01d48b",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "electronic_frozen_keyboard",
+		"names": [{
+				"_id": "62afdc827111bf6ecafbba4c",
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "en",
+				"value": "Bespoke Wooden Chicken"
+			},
+			{
+				"_id": "62afdc827111bf6ecafbba4d",
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"language": "es",
+				"value": "Genérico Granito Silla"
+			},
+			{
+				"_id": "62afdc827111bf6ecafbba4e",
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"language": "pt_BR",
+				"value": "Refinado Algodão Bola"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afdc83d7ffe328ec01d48c",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "rústico_madeira_calças",
+		"names": [{
+				"_id": "62afdc827111bf6ecafbba4f",
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"language": "en",
+				"value": "Handcrafted Fresh Table"
+			},
+			{
+				"_id": "62afdc827111bf6ecafbba50",
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"language": "es",
+				"value": "Inteligente Acero Atún"
+			},
+			{
+				"_id": "62afdc827111bf6ecafbba51",
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"language": "pt_BR",
+				"value": "Impressionante Congelado Toalhas"
+			}
+		]
+	},
+	{
+		"_id": "62afde64ac0490420ce7c9ac",
+		"slug": "ergonomic_bronze_shoes",
+		"names": [{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"value": "Incredible Soft Gloves",
+				"language": "en",
+				"_id": "62afde63140af57c17785358"
+			},
+			{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Inteligente Metal Pelota",
+				"language": "es",
+				"_id": "62afde63140af57c17785359"
+			},
+			{
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"value": "Gostoso Concreto Frango",
+				"language": "pt_BR",
+				"_id": "62afde63140af57c1778535a"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T02:41:33.446Z",
+		"updated_at": "2022-06-20T02:41:33.446Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62afde64ac0490420ce7c9ad",
+		"slug": "incrível_algodão_camiseta",
+		"names": [{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"value": "Awesome Bronze Fish",
+				"language": "en",
+				"_id": "62afde64140af57c17785360"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Ergonómico Ladrillo Pollo",
+				"language": "es",
+				"_id": "62afde64140af57c17785361"
+			},
+			{
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"value": "Impressionante Congelado Cadeira",
+				"language": "pt_BR",
+				"_id": "62afde64140af57c17785362"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T02:41:33.446Z",
+		"updated_at": "2022-06-20T02:41:33.446Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62afdef510bd6b3b404ee5e6",
+		"slug": "bespoke_cotton_hat",
+		"names": [{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"value": "Sleek Concrete Pizza",
+				"language": "en",
+				"_id": "62afdef5a5cb1836fab6df9b"
+			},
+			{
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"value": "Guapa Acero Teclado",
+				"language": "es",
+				"_id": "62afdef5a5cb1836fab6df9c"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Impressionante Metal Camiseta",
+				"language": "pt_BR",
+				"_id": "62afdef5a5cb1836fab6df9d"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T02:43:59.299Z",
+		"updated_at": "2022-06-20T02:43:59.299Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62afdef610bd6b3b404ee5e7",
+		"slug": "feito_à_mão_madeira_toalhas",
+		"names": [{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"value": "Luxurious Wooden Pants",
+				"language": "en",
+				"_id": "62afdef6a5cb1836fab6dfa3"
+			},
+			{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"value": "Artesanal Metal Pelota",
+				"language": "es",
+				"_id": "62afdef6a5cb1836fab6dfa4"
+			},
+			{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Licenciado Congelado Bola",
+				"language": "pt_BR",
+				"_id": "62afdef6a5cb1836fab6dfa5"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T02:43:59.299Z",
+		"updated_at": "2022-06-20T02:43:59.299Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62afdf7e92537c046829eed1",
+		"slug": "generic_wooden_bike",
+		"names": [{
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"value": "Unbranded Granite Towels",
+				"language": "en",
+				"_id": "62afdf7eaac653d6763ea6f0"
+			},
+			{
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"value": "Refinado Madera Toallas",
+				"language": "es",
+				"_id": "62afdf7eaac653d6763ea6f1"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Feito à mão Granito Carro",
+				"language": "pt_BR",
+				"_id": "62afdf7eaac653d6763ea6f2"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T02:46:15.474Z",
+		"updated_at": "2022-06-20T02:46:15.474Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62afdf7f92537c046829eed2",
+		"slug": "lustroso_aço_bicicleta",
+		"names": [{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Handmade Steel Keyboard",
+				"language": "en",
+				"_id": "62afdf7faac653d6763ea6f8"
+			},
+			{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"value": "Increible Granito Bacon",
+				"language": "es",
+				"_id": "62afdf7faac653d6763ea6f9"
+			},
+			{
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"value": "Pequeno Aço Luvas",
+				"language": "pt_BR",
+				"_id": "62afdf7faac653d6763ea6fa"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T02:46:15.474Z",
+		"updated_at": "2022-06-20T02:46:15.474Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62afdf9fed475848e4ba0806",
+		"slug": "unbranded_fresh_bike",
+		"names": [{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Luxurious Plastic Gloves",
+				"language": "en",
+				"_id": "62afdf9eb50472dc4e56d1d3"
+			},
+			{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Genérico Granito Guantes",
+				"language": "es",
+				"_id": "62afdf9eb50472dc4e56d1d4"
+			},
+			{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"value": "Lustroso Aço Mouse",
+				"language": "pt_BR",
+				"_id": "62afdf9eb50472dc4e56d1d5"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T02:46:49.108Z",
+		"updated_at": "2022-06-20T02:46:49.108Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62afdf9fed475848e4ba0807",
+		"slug": "refinado_madeira_mouse",
+		"names": [{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"value": "Incredible Soft Soap",
+				"language": "en",
+				"_id": "62afdf9fb50472dc4e56d1db"
+			},
+			{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"value": "Inteligente Acero Queso",
+				"language": "es",
+				"_id": "62afdf9fb50472dc4e56d1dc"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Sem marca Metal Camiseta",
+				"language": "pt_BR",
+				"_id": "62afdf9fb50472dc4e56d1dd"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T02:46:49.108Z",
+		"updated_at": "2022-06-20T02:46:49.108Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62afe01fa5ecd23dac11fb34",
+		"slug": "unbranded_frozen_salad",
+		"names": [{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"value": "Oriental Soft Bike",
+				"language": "en",
+				"_id": "62afe01ed1afaf9c115657cd"
+			},
+			{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"value": "Rústico Algodón Pollo",
+				"language": "es",
+				"_id": "62afe01ed1afaf9c115657ce"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Lustroso Metal Chapéu",
+				"language": "pt_BR",
+				"_id": "62afe01ed1afaf9c115657cf"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T02:48:56.853Z",
+		"updated_at": "2022-06-20T02:48:56.853Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62afe01fa5ecd23dac11fb35",
+		"slug": "prático_plástico_cadeira",
+		"names": [{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Ergonomic Plastic Bike",
+				"language": "en",
+				"_id": "62afe01fd1afaf9c115657d5"
+			},
+			{
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"value": "Fantástico Plástico Teclado",
+				"language": "es",
+				"_id": "62afe01fd1afaf9c115657d6"
+			},
+			{
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"value": "Lindo Granito Luvas",
+				"language": "pt_BR",
+				"_id": "62afe01fd1afaf9c115657d7"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T02:48:56.853Z",
+		"updated_at": "2022-06-20T02:48:56.853Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62afe04f0caac33478cbfb28",
+		"slug": "refined_concrete_shirt",
+		"names": [{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"value": "Ergonomic Plastic Computer",
+				"language": "en",
+				"_id": "62afe04efab1eaf3bfce8f32"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Guapo Algodón Salchichas",
+				"language": "es",
+				"_id": "62afe04efab1eaf3bfce8f33"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Incrível Fresco Sapatos",
+				"language": "pt_BR",
+				"_id": "62afe04efab1eaf3bfce8f34"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T02:49:44.948Z",
+		"updated_at": "2022-06-20T02:49:44.948Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62afe04f0caac33478cbfb29",
+		"slug": "incrível_madeira_mesa",
+		"names": [{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Unbranded Concrete Table",
+				"language": "en",
+				"_id": "62afe04ffab1eaf3bfce8f3a"
+			},
+			{
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"value": "Guapo Acero Zapatos",
+				"language": "es",
+				"_id": "62afe04ffab1eaf3bfce8f3b"
+			},
+			{
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"value": "Impressionante Aço Mesa",
+				"language": "pt_BR",
+				"_id": "62afe04ffab1eaf3bfce8f3c"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T02:49:44.948Z",
+		"updated_at": "2022-06-20T02:49:44.948Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afe2207241f33794be0da2",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "gorgeous_soft_towels",
+		"names": [{
+				"_id": "62afe21f3d3d3235b38f5940",
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"language": "en",
+				"value": "Handmade Steel Mouse"
+			},
+			{
+				"_id": "62afe21f3d3d3235b38f5941",
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "es",
+				"value": "Rústico Plástico Coche"
+			},
+			{
+				"_id": "62afe21f3d3d3235b38f5942",
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"language": "pt_BR",
+				"value": "Lustroso Metal Computador"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afe2207241f33794be0da3",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "ergonômico_madeira_luvas",
+		"names": [{
+				"_id": "62afe2203d3d3235b38f5943",
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"language": "en",
+				"value": "Unbranded Frozen Pants"
+			},
+			{
+				"_id": "62afe2203d3d3235b38f5944",
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "es",
+				"value": "Sabroso Plástico Ordenador"
+			},
+			{
+				"_id": "62afe2203d3d3235b38f5945",
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"language": "pt_BR",
+				"value": "Genérico Aço Bacon"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afe25a6b1ca720fc3129aa",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "fantastic_frozen_mouse",
+		"names": [{
+				"_id": "62afe25a42dfcd4d8d825d02",
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"language": "en",
+				"value": "Rustic Bronze Table"
+			},
+			{
+				"_id": "62afe25a42dfcd4d8d825d03",
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"language": "es",
+				"value": "Guapa Granito Sopa"
+			},
+			{
+				"_id": "62afe25a42dfcd4d8d825d04",
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"language": "pt_BR",
+				"value": "Lindo Congelado Peixe"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afe25a6b1ca720fc3129ab",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "inteligente_fresco_bola",
+		"names": [{
+				"_id": "62afe25a42dfcd4d8d825d05",
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"language": "en",
+				"value": "Generic Cotton Computer"
+			},
+			{
+				"_id": "62afe25a42dfcd4d8d825d06",
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"language": "es",
+				"value": "Guapa Metal Silla"
+			},
+			{
+				"_id": "62afe25a42dfcd4d8d825d07",
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"language": "pt_BR",
+				"value": "Inteligente Macio Salgadinhos"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afe39c03beed3c0431bf28",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "practical_granite_table",
+		"names": [{
+				"_id": "62afe39cd05621a1e7da5955",
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"language": "en",
+				"value": "Awesome Concrete Table"
+			},
+			{
+				"_id": "62afe39cd05621a1e7da5956",
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "es",
+				"value": "Genérico Madera Coche"
+			},
+			{
+				"_id": "62afe39cd05621a1e7da5957",
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"language": "pt_BR",
+				"value": "Sem marca Madeira Salada"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afe39c03beed3c0431bf29",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "prático_algodão_mesa",
+		"names": [{
+				"_id": "62afe39cd05621a1e7da5958",
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"language": "en",
+				"value": "Ergonomic Metal Towels"
+			},
+			{
+				"_id": "62afe39cd05621a1e7da5959",
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"language": "es",
+				"value": "Práctico Granito Pollo"
+			},
+			{
+				"_id": "62afe39cd05621a1e7da595a",
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"language": "pt_BR",
+				"value": "Pequeno Metal Camiseta"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afe39c03beed3c0431bf2a",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "fantástico_macio_mouse",
+		"names": [{
+				"_id": "62afe39cd05621a1e7da595b",
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"language": "en",
+				"value": "Gorgeous Granite Towels"
+			},
+			{
+				"_id": "62afe39cd05621a1e7da595c",
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "es",
+				"value": "Ergonómico Plástico Sopa"
+			},
+			{
+				"_id": "62afe39cd05621a1e7da595d",
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"language": "pt_BR",
+				"value": "Pequeno Madeira Queijo"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afe429e3afc00c10e6c4a7",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "recycled_granite_bike",
+		"names": [{
+				"_id": "62afe42867e9feec66c41e96",
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"language": "en",
+				"value": "Ergonomic Frozen Computer"
+			},
+			{
+				"_id": "62afe42867e9feec66c41e97",
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"language": "es",
+				"value": "Inteligente Plástico Coche"
+			},
+			{
+				"_id": "62afe42867e9feec66c41e98",
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "pt_BR",
+				"value": "Lindo Metal Cadeira"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afe429e3afc00c10e6c4a8",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "impressionante_madeira_cadeira",
+		"names": [{
+				"_id": "62afe42967e9feec66c41e99",
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"language": "en",
+				"value": "Small Metal Pants"
+			},
+			{
+				"_id": "62afe42967e9feec66c41e9a",
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "es",
+				"value": "Increible Granito Pizza"
+			},
+			{
+				"_id": "62afe42967e9feec66c41e9b",
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"language": "pt_BR",
+				"value": "Lustroso Concreto Mesa"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afe429e3afc00c10e6c4a9",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "prático_madeira_frango",
+		"names": [{
+				"_id": "62afe42967e9feec66c41e9c",
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"language": "en",
+				"value": "Incredible Steel Bacon"
+			},
+			{
+				"_id": "62afe42967e9feec66c41e9d",
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"language": "es",
+				"value": "Artesanal Granito Gorro"
+			},
+			{
+				"_id": "62afe42967e9feec66c41e9e",
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"language": "pt_BR",
+				"value": "Sem marca Congelado Peixe"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afe4981b044a53400ad28f",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "oriental_wooden_chicken",
+		"names": [{
+				"_id": "62afe4973174dfd60a0cae90",
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "en",
+				"value": "Sleek Granite Sausages"
+			},
+			{
+				"_id": "62afe4973174dfd60a0cae91",
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"language": "es",
+				"value": "Sabroso Granito Atún"
+			},
+			{
+				"_id": "62afe4973174dfd60a0cae92",
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"language": "pt_BR",
+				"value": "Ergonômico Congelado Pizza"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afe4981b044a53400ad290",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "licenciado_algodão_salada",
+		"names": [{
+				"_id": "62afe4983174dfd60a0cae93",
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"language": "en",
+				"value": "Fantastic Steel Ball"
+			},
+			{
+				"_id": "62afe4983174dfd60a0cae94",
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"language": "es",
+				"value": "Práctico Algodón Pescado"
+			},
+			{
+				"_id": "62afe4983174dfd60a0cae95",
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"language": "pt_BR",
+				"value": "Licenciado Congelado Computador"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afe4981b044a53400ad291",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "prático_plástico_luvas",
+		"names": [{
+				"_id": "62afe4983174dfd60a0cae96",
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"language": "en",
+				"value": "Licensed Plastic Table"
+			},
+			{
+				"_id": "62afe4983174dfd60a0cae97",
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"language": "es",
+				"value": "Práctico Hormigon Bicicleta"
+			},
+			{
+				"_id": "62afe4983174dfd60a0cae98",
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"language": "pt_BR",
+				"value": "Genérico Plástico Peixe"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afe5d5175b6e248c64b750",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "sleek_rubber_fish",
+		"names": [{
+				"_id": "62afe5d077de291fed609c89",
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"language": "en",
+				"value": "Fantastic Metal Ball"
+			},
+			{
+				"_id": "62afe5d077de291fed609c8a",
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"language": "es",
+				"value": "Pequeño Granito Ensalada"
+			},
+			{
+				"_id": "62afe5d077de291fed609c8b",
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"language": "pt_BR",
+				"value": "Feito à mão Borracha Computador"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afe5d5175b6e248c64b751",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "feito_à_mão_metal_bicicleta",
+		"names": [{
+				"_id": "62afe5d577de291fed609c8c",
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"language": "en",
+				"value": "Incredible Soft Car"
+			},
+			{
+				"_id": "62afe5d577de291fed609c8d",
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"language": "es",
+				"value": "Fantástico Ladrillo Coche"
+			},
+			{
+				"_id": "62afe5d577de291fed609c8e",
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"language": "pt_BR",
+				"value": "Ergonômico Macio Queijo"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afe5d5175b6e248c64b752",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "incrível_concreto_peixe",
+		"names": [{
+				"_id": "62afe5d577de291fed609c8f",
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"language": "en",
+				"value": "Small Steel Table"
+			},
+			{
+				"_id": "62afe5d577de291fed609c90",
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"language": "es",
+				"value": "Refinado Granito Toallas"
+			},
+			{
+				"_id": "62afe5d577de291fed609c91",
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "pt_BR",
+				"value": "Lindo Granito Toalhas"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afe62ff7e75b11d4e7f2f3",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "unbranded_metal_shoes",
+		"names": [{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"language": "en",
+				"value": "Fantastic Plastic Tuna"
+			},
+			{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"language": "es",
+				"value": "Genérico Algodón Queso"
+			},
+			{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"language": "pt_BR",
+				"value": "Lustroso Macio Computador"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afe62ff7e75b11d4e7f2f4",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "prático_borracha_teclado",
+		"names": [{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"language": "en",
+				"value": "Luxurious Steel Pizza"
+			},
+			{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"language": "es",
+				"value": "Sorprendente Ladrillo Patatas fritas"
+			},
+			{
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"language": "pt_BR",
+				"value": "Lustroso Aço Queijo"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62afe62ff7e75b11d4e7f2f5",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "rústico_metal_bacon",
+		"names": [{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"language": "en",
+				"value": "Handcrafted Metal Table"
+			},
+			{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"language": "es",
+				"value": "Increible Madera Mesa"
+			},
+			{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"language": "pt_BR",
+				"value": "Inteligente Aço Pizza"
+			}
+		]
+	},
+	{
+		"_id": "62afe8822c6e3c4f94983b89",
+		"slug": "generic_metal_car",
+		"names": [{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"value": "Electronic Soft Sausages",
+				"language": "en",
+				"_id": "62afe88239dc8aeeff21fc8c"
+			},
+			{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Genérico Plástico Ordenador",
+				"language": "es",
+				"_id": "62afe88239dc8aeeff21fc8d"
+			},
+			{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"value": "Lustroso Congelado Atum",
+				"language": "pt_BR",
+				"_id": "62afe88239dc8aeeff21fc8e"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T03:24:43.759Z",
+		"updated_at": "2022-06-20T03:24:43.759Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62afe8832c6e3c4f94983b8a",
+		"slug": "feito_à_mão_plástico_computador",
+		"names": [{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Gorgeous Frozen Hat",
+				"language": "en",
+				"_id": "62afe88339dc8aeeff21fc91"
+			},
+			{
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"value": "Sabroso Ladrillo Toallas",
+				"language": "es",
+				"_id": "62afe88339dc8aeeff21fc92"
+			},
+			{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"value": "Feito à mão Aço Computador",
+				"language": "pt_BR",
+				"_id": "62afe88339dc8aeeff21fc93"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T03:24:43.759Z",
+		"updated_at": "2022-06-20T03:24:43.759Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62afe8832c6e3c4f94983b8b",
+		"slug": "lustroso_macio_luvas",
+		"names": [{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Elegant Rubber Computer",
+				"language": "en",
+				"_id": "62afe88339dc8aeeff21fc9b"
+			},
+			{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Pequeño Algodón Sopa",
+				"language": "es",
+				"_id": "62afe88339dc8aeeff21fc9c"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Fantástico Aço Chapéu",
+				"language": "pt_BR",
+				"_id": "62afe88339dc8aeeff21fc9d"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T03:24:43.759Z",
+		"updated_at": "2022-06-20T03:24:43.759Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62afe9ecb6ccaa53b88c63ba",
+		"slug": "small_granite_chips",
+		"names": [{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Modern Concrete Tuna",
+				"language": "en",
+				"_id": "62afe9ecdc3b7f1488291e15"
+			},
+			{
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"value": "Genérico Granito Gorro",
+				"language": "es",
+				"_id": "62afe9ecdc3b7f1488291e16"
+			},
+			{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Ergonômico Congelado Calças",
+				"language": "pt_BR",
+				"_id": "62afe9ecdc3b7f1488291e17"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T03:30:45.745Z",
+		"updated_at": "2022-06-20T03:30:45.745Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62afe9ecb6ccaa53b88c63bb",
+		"slug": "lindo_congelado_cadeira",
+		"names": [{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"value": "Handcrafted Frozen Chips",
+				"language": "en",
+				"_id": "62afe9ecdc3b7f1488291e1a"
+			},
+			{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"value": "Genérico Hormigon Sopa",
+				"language": "es",
+				"_id": "62afe9ecdc3b7f1488291e1b"
+			},
+			{
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"value": "Licenciado Algodão Salada",
+				"language": "pt_BR",
+				"_id": "62afe9ecdc3b7f1488291e1c"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T03:30:45.745Z",
+		"updated_at": "2022-06-20T03:30:45.745Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62afe9ecb6ccaa53b88c63bc",
+		"slug": "feito_à_mão_granito_sapatos",
+		"names": [{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"value": "Luxurious Metal Gloves",
+				"language": "en",
+				"_id": "62afe9ecdc3b7f1488291e24"
+			},
+			{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Rústico Hormigon Ensalada",
+				"language": "es",
+				"_id": "62afe9ecdc3b7f1488291e25"
+			},
+			{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"value": "Fantástico Algodão Bola",
+				"language": "pt_BR",
+				"_id": "62afe9ecdc3b7f1488291e26"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T03:30:45.745Z",
+		"updated_at": "2022-06-20T03:30:45.745Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62afeb49f3a56009c80bdb72",
+		"slug": "handmade_bronze_chicken",
+		"names": [{
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"value": "Handmade Plastic Shirt",
+				"language": "en",
+				"_id": "62afeb49a136d39d64602a9e"
+			},
+			{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"value": "Hecho a mano Ladrillo Patatas fritas",
+				"language": "es",
+				"_id": "62afeb49a136d39d64602a9f"
+			},
+			{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Prático Borracha Salsicha",
+				"language": "pt_BR",
+				"_id": "62afeb49a136d39d64602aa0"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T03:36:34.424Z",
+		"updated_at": "2022-06-20T03:36:34.424Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62afeb49f3a56009c80bdb73",
+		"slug": "impressionante_fresco_carro",
+		"names": [{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Elegant Bronze Shirt",
+				"language": "en",
+				"_id": "62afeb49a136d39d64602aa3"
+			},
+			{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Guapo Madera Guantes",
+				"language": "es",
+				"_id": "62afeb49a136d39d64602aa4"
+			},
+			{
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"value": "Fantástico Congelado Chapéu",
+				"language": "pt_BR",
+				"_id": "62afeb49a136d39d64602aa5"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T03:36:34.424Z",
+		"updated_at": "2022-06-20T03:36:34.424Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62afeb49f3a56009c80bdb74",
+		"slug": "refinado_algodão_bacon",
+		"names": [{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"value": "Awesome Plastic Keyboard",
+				"language": "en",
+				"_id": "62afeb49a136d39d64602aad"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Guapa Madera Guantes",
+				"language": "es",
+				"_id": "62afeb49a136d39d64602aae"
+			},
+			{
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"value": "Fantástico Algodão Mouse",
+				"language": "pt_BR",
+				"_id": "62afeb49a136d39d64602aaf"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T03:36:34.424Z",
+		"updated_at": "2022-06-20T03:36:34.424Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62aff1ca9e574241fcc911ac",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "practical_frozen_sausages",
+		"names": [{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "en",
+				"value": "Fantastic Granite Mouse"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "es",
+				"value": "Guapo Metal Teclado"
+			},
+			{
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"language": "pt_BR",
+				"value": "Gostoso Congelado Chapéu"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62aff1ca9e574241fcc911ad",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "rústico_congelado_frango",
+		"names": [{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"language": "en",
+				"value": "Incredible Concrete Chicken"
+			},
+			{
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"language": "es",
+				"value": "Guapo Acero Ensalada"
+			},
+			{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"language": "pt_BR",
+				"value": "Pequeno Metal Peixe"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62aff1ca9e574241fcc911ae",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "licenciado_congelado_mesa",
+		"names": [{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"language": "en",
+				"value": "Luxurious Concrete Ball"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "es",
+				"value": "Práctico Granito Zapatos"
+			},
+			{
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"language": "pt_BR",
+				"value": "Ergonômico Borracha Frango"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62aff2953d76df34bcef3f6c",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "small_bronze_shirt",
+		"names": [{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"language": "en",
+				"value": "Intelligent Bronze Towels"
+			},
+			{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"language": "es",
+				"value": "Fantástico Granito Teclado"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"language": "pt_BR",
+				"value": "Rústico Borracha Atum"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62aff2953d76df34bcef3f6d",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "licenciado_algodão_camiseta",
+		"names": [{
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"language": "en",
+				"value": "Modern Rubber Shoes"
+			},
+			{
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"language": "es",
+				"value": "Sorprendente Acero Pescado"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "pt_BR",
+				"value": "Fantástico Borracha Frango"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62aff2953d76df34bcef3f6e",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "ergonômico_aço_bacon",
+		"names": [{
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"language": "en",
+				"value": "Gorgeous Metal Gloves"
+			},
+			{
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"language": "es",
+				"value": "Hecho a mano Algodón Bacon"
+			},
+			{
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"language": "pt_BR",
+				"value": "Lindo Algodão Pizza"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62aff3dd8c717b22b0f56d91",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "practical_rubber_keyboard",
+		"names": [{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"language": "en",
+				"value": "Handcrafted Rubber Sausages"
+			},
+			{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"language": "es",
+				"value": "Rústico Plástico Zapatos"
+			},
+			{
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"language": "pt_BR",
+				"value": "Pequeno Granito Mouse"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62aff3dd8c717b22b0f56d92",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "genérico_fresco_pizza",
+		"names": [{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"language": "en",
+				"value": "Unbranded Soft Shirt"
+			},
+			{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"language": "es",
+				"value": "Increible Madera Ordenador"
+			},
+			{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"language": "pt_BR",
+				"value": "Fantástico Granito Chapéu"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62aff3dd8c717b22b0f56d93",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "licenciado_macio_bacon",
+		"names": [{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "en",
+				"value": "Ergonomic Rubber Gloves"
+			},
+			{
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"language": "es",
+				"value": "Increible Hormigon Pollo"
+			},
+			{
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"language": "pt_BR",
+				"value": "Genérico Concreto Bacon"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62aff46e0f27ab5410dd4bb0",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "generic_wooden_bacon",
+		"names": [{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"language": "en",
+				"value": "Small Granite Salad"
+			},
+			{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"language": "es",
+				"value": "Guapa Algodón Queso"
+			},
+			{
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"language": "pt_BR",
+				"value": "Gostoso Macio Frango"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62aff46e0f27ab5410dd4bb1",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "incrível_congelado_camiseta",
+		"names": [{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "en",
+				"value": "Licensed Soft Chicken"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "es",
+				"value": "Rústico Metal Coche"
+			},
+			{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"language": "pt_BR",
+				"value": "Lustroso Aço Sabonete"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62aff46e0f27ab5410dd4bb2",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "refinado_fresco_cadeira",
+		"names": [{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "en",
+				"value": "Handcrafted Steel Soap"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"language": "es",
+				"value": "Ergonómico Ladrillo Guantes"
+			},
+			{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"language": "pt_BR",
+				"value": "Sem marca Plástico Bicicleta"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62affa2abfe67b3500af48fc",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "electronic_wooden_hat",
+		"names": [{
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"language": "en",
+				"value": "Licensed Granite Soap"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "es",
+				"value": "Sabroso Granito Bacon"
+			},
+			{
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"language": "pt_BR",
+				"value": "Feito à mão Plástico Mouse"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62affa2abfe67b3500af48fd",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "inteligente_granito_frango",
+		"names": [{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"language": "en",
+				"value": "Recycled Bronze Computer"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"language": "es",
+				"value": "Increible Hormigon Bacon"
+			},
+			{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"language": "pt_BR",
+				"value": "Prático Algodão Toalhas"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62affa2abfe67b3500af48fe",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "prático_metal_toalhas",
+		"names": [{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"language": "en",
+				"value": "Elegant Steel Mouse"
+			},
+			{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"language": "es",
+				"value": "Inteligente Metal Guantes"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "pt_BR",
+				"value": "Lustroso Macio Luvas"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62affa6ffbb7284344d55637",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "oriental_metal_chips",
+		"names": [{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"language": "en",
+				"value": "Modern Metal Pizza"
+			},
+			{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"language": "es",
+				"value": "Rústico Algodón Pizza"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"language": "pt_BR",
+				"value": "Impressionante Metal Pizza"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62affa6ffbb7284344d55638",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "feito_à_mão_algodão_luvas",
+		"names": [{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"language": "en",
+				"value": "Intelligent Granite Gloves"
+			},
+			{
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"language": "es",
+				"value": "Pequeño Hormigon Teclado"
+			},
+			{
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"language": "pt_BR",
+				"value": "Inteligente Metal Computador"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62affa6ffbb7284344d55639",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "licenciado_concreto_computador",
+		"names": [{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"language": "en",
+				"value": "Refined Granite Fish"
+			},
+			{
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"language": "es",
+				"value": "Inteligente Granito Pelota"
+			},
+			{
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"language": "pt_BR",
+				"value": "Pequeno Madeira Queijo"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62b0860411a6e413e08364b4",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "practical_concrete_table",
+		"names": [{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"language": "en",
+				"value": "Elegant Steel Chips"
+			},
+			{
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"language": "es",
+				"value": "Inteligente Hormigon Atún"
+			},
+			{
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"language": "pt_BR",
+				"value": "Licenciado Algodão Pizza"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62b0860411a6e413e08364b5",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "licenciado_congelado_sapatos",
+		"names": [{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"language": "en",
+				"value": "Handcrafted Fresh Pants"
+			},
+			{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"language": "es",
+				"value": "Pequeño Plástico Silla"
+			},
+			{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"language": "pt_BR",
+				"value": "Pequeno Metal Atum"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62b0860411a6e413e08364b6",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "incrível_borracha_mouse",
+		"names": [{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"language": "en",
+				"value": "Bespoke Concrete Pants"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "es",
+				"value": "Increible Metal Pizza"
+			},
+			{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"language": "pt_BR",
+				"value": "Feito à mão Plástico Camiseta"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62b0863dcad3010560da5590",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "oriental_cotton_chair",
+		"names": [{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"language": "en",
+				"value": "Small Granite Salad"
+			},
+			{
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"language": "es",
+				"value": "Artesanal Ladrillo Mesa"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "pt_BR",
+				"value": "Pequeno Algodão Peixe"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62b0863dcad3010560da5591",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "feito_à_mão_aço_atum",
+		"names": [{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"language": "en",
+				"value": "Awesome Frozen Bike"
+			},
+			{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"language": "es",
+				"value": "Refinado Ladrillo Pollo"
+			},
+			{
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"language": "pt_BR",
+				"value": "Prático Granito Luvas"
+			}
+		]
+	},
+	{
+		"tasks": [],
+		"created_at": "2022-07-11T18:23:22.110Z",
+		"updated_at": "2022-07-11T18:23:22.110Z",
+		"_id": "62b0863dcad3010560da5592",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479",
+		"slug": "fantástico_algodão_salgadinhos",
+		"names": [{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"language": "en",
+				"value": "Practical Cotton Hat"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"language": "es",
+				"value": "Fantástico Plástico Guantes"
+			},
+			{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"language": "pt_BR",
+				"value": "Incrível Madeira Sapatos"
+			}
+		]
+	},
+	{
+		"_id": "62b086a17d0b4623b8c2b33a",
+		"slug": "rustic_bronze_salad",
+		"names": [{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Licensed Plastic Towels",
+				"language": "en",
+				"_id": "62b086a1b6bb43ac47536364"
+			},
+			{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"value": "Pequeño Plástico Patatas fritas",
+				"language": "es",
+				"_id": "62b086a1b6bb43ac47536365"
+			},
+			{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"value": "Lustroso Congelado Toalhas",
+				"language": "pt_BR",
+				"_id": "62b086a1b6bb43ac47536366"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T14:39:22.275Z",
+		"updated_at": "2022-06-20T14:39:22.275Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b086a17d0b4623b8c2b33b",
+		"slug": "sem_marca_algodão_bacon",
+		"names": [{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"value": "Small Wooden Towels",
+				"language": "en",
+				"_id": "62b086a1b6bb43ac47536369"
+			},
+			{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Guapo Madera Mesa",
+				"language": "es",
+				"_id": "62b086a1b6bb43ac4753636a"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Licenciado Concreto Camiseta",
+				"language": "pt_BR",
+				"_id": "62b086a1b6bb43ac4753636b"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T14:39:22.275Z",
+		"updated_at": "2022-06-20T14:39:22.275Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b086a17d0b4623b8c2b33c",
+		"slug": "inteligente_granito_sapatos",
+		"names": [{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"value": "Generic Plastic Tuna",
+				"language": "en",
+				"_id": "62b086a2b6bb43ac47536373"
+			},
+			{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Hecho a mano Algodón Pizza",
+				"language": "es",
+				"_id": "62b086a2b6bb43ac47536374"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Licenciado Madeira Chapéu",
+				"language": "pt_BR",
+				"_id": "62b086a2b6bb43ac47536375"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T14:39:22.275Z",
+		"updated_at": "2022-06-20T14:39:22.275Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b087bbb1ac33512089f291",
+		"slug": "incredible_soft_bacon",
+		"names": [{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"value": "Tasty Concrete Bacon",
+				"language": "en",
+				"_id": "62b087bb3b30255e74ab0001"
+			},
+			{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"value": "Increible Metal Bicicleta",
+				"language": "es",
+				"_id": "62b087bb3b30255e74ab0002"
+			},
+			{
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"value": "Refinado Metal Toalhas",
+				"language": "pt_BR",
+				"_id": "62b087bb3b30255e74ab0003"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T14:44:04.827Z",
+		"updated_at": "2022-06-20T14:44:04.827Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b087bcb1ac33512089f292",
+		"slug": "incrível_concreto_mesa",
+		"names": [{
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"value": "Electronic Concrete Soap",
+				"language": "en",
+				"_id": "62b087bc3b30255e74ab0006"
+			},
+			{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"value": "Genérico Madera Mesa",
+				"language": "es",
+				"_id": "62b087bc3b30255e74ab0007"
+			},
+			{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"value": "Pequeno Madeira Sabonete",
+				"language": "pt_BR",
+				"_id": "62b087bc3b30255e74ab0008"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T14:44:04.827Z",
+		"updated_at": "2022-06-20T14:44:04.827Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b087bcb1ac33512089f293",
+		"slug": "incrível_macio_toalhas",
+		"names": [{
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"value": "Sleek Fresh Pizza",
+				"language": "en",
+				"_id": "62b087bc3b30255e74ab000c"
+			},
+			{
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"value": "Guapa Granito Sopa",
+				"language": "es",
+				"_id": "62b087bc3b30255e74ab000d"
+			},
+			{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Fantástico Borracha Teclado",
+				"language": "pt_BR",
+				"_id": "62b087bc3b30255e74ab000e"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T14:44:04.827Z",
+		"updated_at": "2022-06-20T14:44:04.827Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b087bcb1ac33512089f294",
+		"slug": "gostoso_aço_luvas",
+		"names": [{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Generic Soft Bacon",
+				"language": "en",
+				"_id": "62b087bc3b30255e74ab0017"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Guapa Granito Gorro",
+				"language": "es",
+				"_id": "62b087bc3b30255e74ab0018"
+			},
+			{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"value": "Impressionante Fresco Mouse",
+				"language": "pt_BR",
+				"_id": "62b087bc3b30255e74ab0019"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T14:44:04.827Z",
+		"updated_at": "2022-06-20T14:44:04.827Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b0893e3277794254ba635d",
+		"slug": "recycled_concrete_mouse",
+		"names": [{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"value": "Licensed Fresh Tuna",
+				"language": "en",
+				"_id": "62b0893e3681375c31313957"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Hecho a mano Metal Bacon",
+				"language": "es",
+				"_id": "62b0893e3681375c31313958"
+			},
+			{
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"value": "Prático Fresco Sabonete",
+				"language": "pt_BR",
+				"_id": "62b0893e3681375c31313959"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T14:50:31.008Z",
+		"updated_at": "2022-06-20T14:50:31.008Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b0893e3277794254ba635e",
+		"slug": "refinado_concreto_sabonete",
+		"names": [{
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"value": "Rustic Metal Hat",
+				"language": "en",
+				"_id": "62b0893e3681375c3131395c"
+			},
+			{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Genérico Hormigon Pizza",
+				"language": "es",
+				"_id": "62b0893e3681375c3131395d"
+			},
+			{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Ergonômico Plástico Cadeira",
+				"language": "pt_BR",
+				"_id": "62b0893e3681375c3131395e"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T14:50:31.008Z",
+		"updated_at": "2022-06-20T14:50:31.008Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b0893e3277794254ba635f",
+		"slug": "rústico_metal_carro",
+		"names": [{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"value": "Bespoke Steel Soap",
+				"language": "en",
+				"_id": "62b0893e3681375c31313962"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Fantástico Plástico Gorro",
+				"language": "es",
+				"_id": "62b0893e3681375c31313963"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Genérico Congelado Bacon",
+				"language": "pt_BR",
+				"_id": "62b0893e3681375c31313964"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T14:50:31.008Z",
+		"updated_at": "2022-06-20T14:50:31.008Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b0893f3277794254ba6360",
+		"slug": "refinado_congelado_mouse",
+		"names": [{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"value": "Generic Soft Gloves",
+				"language": "en",
+				"_id": "62b0893f3681375c3131396d"
+			},
+			{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"value": "Inteligente Metal Pelota",
+				"language": "es",
+				"_id": "62b0893f3681375c3131396e"
+			},
+			{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Gostoso Aço Peixe",
+				"language": "pt_BR",
+				"_id": "62b0893f3681375c3131396f"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T14:50:31.008Z",
+		"updated_at": "2022-06-20T14:50:31.008Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b08b05961c212160ee4837",
+		"slug": "handcrafted_cotton_bike",
+		"names": [{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"value": "Handcrafted Granite Bacon",
+				"language": "en",
+				"_id": "62b08b05a4f874bff7d84319"
+			},
+			{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Pequeño Granito Zapatos",
+				"language": "es",
+				"_id": "62b08b05a4f874bff7d8431a"
+			},
+			{
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"value": "Fantástico Algodão Salsicha",
+				"language": "pt_BR",
+				"_id": "62b08b05a4f874bff7d8431b"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T14:58:06.346Z",
+		"updated_at": "2022-06-20T14:58:06.346Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b08b05961c212160ee4838",
+		"slug": "lindo_metal_toalhas",
+		"names": [{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"value": "Awesome Rubber Fish",
+				"language": "en",
+				"_id": "62b08b05a4f874bff7d8431e"
+			},
+			{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"value": "Hecho a mano Madera Teclado",
+				"language": "es",
+				"_id": "62b08b05a4f874bff7d8431f"
+			},
+			{
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"value": "Incrível Algodão Atum",
+				"language": "pt_BR",
+				"_id": "62b08b05a4f874bff7d84320"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T14:58:06.346Z",
+		"updated_at": "2022-06-20T14:58:06.346Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b08b06961c212160ee4839",
+		"slug": "sem_marca_congelado_sapatos",
+		"names": [{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"value": "Intelligent Metal Mouse",
+				"language": "en",
+				"_id": "62b08b06a4f874bff7d84324"
+			},
+			{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Inteligente Madera Mesa",
+				"language": "es",
+				"_id": "62b08b06a4f874bff7d84325"
+			},
+			{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"value": "Inteligente Aço Mesa",
+				"language": "pt_BR",
+				"_id": "62b08b06a4f874bff7d84326"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T14:58:06.346Z",
+		"updated_at": "2022-06-20T14:58:06.346Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b08b06961c212160ee483a",
+		"slug": "licenciado_aço_carro",
+		"names": [{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Recycled Steel Cheese",
+				"language": "en",
+				"_id": "62b08b06a4f874bff7d8432f"
+			},
+			{
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"value": "Guapa Ladrillo Atún",
+				"language": "es",
+				"_id": "62b08b06a4f874bff7d84330"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Gostoso Madeira Salada",
+				"language": "pt_BR",
+				"_id": "62b08b06a4f874bff7d84331"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T14:58:06.346Z",
+		"updated_at": "2022-06-20T14:58:06.346Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b08b4bce1bea5168108d41",
+		"slug": "oriental_cotton_tuna",
+		"names": [{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"value": "Recycled Granite Keyboard",
+				"language": "en",
+				"_id": "62b08b4b506ca515c78ebe18"
+			},
+			{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Guapo Granito Sopa",
+				"language": "es",
+				"_id": "62b08b4b506ca515c78ebe19"
+			},
+			{
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"value": "Gostoso Metal Atum",
+				"language": "pt_BR",
+				"_id": "62b08b4b506ca515c78ebe1a"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T14:59:16.396Z",
+		"updated_at": "2022-06-20T14:59:16.396Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b08b4cce1bea5168108d42",
+		"slug": "gostoso_metal_sapatos",
+		"names": [{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"value": "Elegant Frozen Sausages",
+				"language": "en",
+				"_id": "62b08b4c506ca515c78ebe1d"
+			},
+			{
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"value": "Genérico Acero Toallas",
+				"language": "es",
+				"_id": "62b08b4c506ca515c78ebe1e"
+			},
+			{
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"value": "Incrível Plástico Salada",
+				"language": "pt_BR",
+				"_id": "62b08b4c506ca515c78ebe1f"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T14:59:16.396Z",
+		"updated_at": "2022-06-20T14:59:16.396Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b08b4cce1bea5168108d43",
+		"slug": "refinado_fresco_mouse",
+		"names": [{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Rustic Steel Chips",
+				"language": "en",
+				"_id": "62b08b4c506ca515c78ebe23"
+			},
+			{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"value": "Sorprendente Algodón Toallas",
+				"language": "es",
+				"_id": "62b08b4c506ca515c78ebe24"
+			},
+			{
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"value": "Lustroso Aço Salada",
+				"language": "pt_BR",
+				"_id": "62b08b4c506ca515c78ebe25"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T14:59:16.396Z",
+		"updated_at": "2022-06-20T14:59:16.396Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b08b4cce1bea5168108d44",
+		"slug": "refinado_concreto_mouse",
+		"names": [{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"value": "Handmade Steel Car",
+				"language": "en",
+				"_id": "62b08b4c506ca515c78ebe2e"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Guapa Acero Pantalones",
+				"language": "es",
+				"_id": "62b08b4c506ca515c78ebe2f"
+			},
+			{
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"value": "Refinado Borracha Salgadinhos",
+				"language": "pt_BR",
+				"_id": "62b08b4c506ca515c78ebe30"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T14:59:16.396Z",
+		"updated_at": "2022-06-20T14:59:16.396Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b08cadd556c350cc3a683d",
+		"slug": "practical_wooden_pizza",
+		"names": [{
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"value": "Oriental Fresh Sausages",
+				"language": "en",
+				"_id": "62b08cadab1901e54cc6fdc1"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Ergonómico Acero Silla",
+				"language": "es",
+				"_id": "62b08cadab1901e54cc6fdc2"
+			},
+			{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"value": "Refinado Aço Luvas",
+				"language": "pt_BR",
+				"_id": "62b08cadab1901e54cc6fdc3"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:05:10.706Z",
+		"updated_at": "2022-06-20T15:05:10.706Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b08cadd556c350cc3a683e",
+		"slug": "sem_marca_congelado_salada",
+		"names": [{
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"value": "Awesome Rubber Fish",
+				"language": "en",
+				"_id": "62b08cadab1901e54cc6fdc6"
+			},
+			{
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"value": "Práctico Madera Raton",
+				"language": "es",
+				"_id": "62b08cadab1901e54cc6fdc7"
+			},
+			{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Refinado Plástico Luvas",
+				"language": "pt_BR",
+				"_id": "62b08cadab1901e54cc6fdc8"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:05:10.706Z",
+		"updated_at": "2022-06-20T15:05:10.706Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b08caed556c350cc3a683f",
+		"slug": "sem_marca_congelado_peixe",
+		"names": [{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"value": "Practical Bronze Chicken",
+				"language": "en",
+				"_id": "62b08caeab1901e54cc6fdcc"
+			},
+			{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Artesanal Algodón Atún",
+				"language": "es",
+				"_id": "62b08caeab1901e54cc6fdcd"
+			},
+			{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"value": "Refinado Metal Bacon",
+				"language": "pt_BR",
+				"_id": "62b08caeab1901e54cc6fdce"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:05:10.706Z",
+		"updated_at": "2022-06-20T15:05:10.706Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b08caed556c350cc3a6840",
+		"slug": "gostoso_macio_mouse",
+		"names": [{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"value": "Practical Wooden Mouse",
+				"language": "en",
+				"_id": "62b08caeab1901e54cc6fdd7"
+			},
+			{
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"value": "Ergonómico Plástico Sopa",
+				"language": "es",
+				"_id": "62b08caeab1901e54cc6fdd8"
+			},
+			{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"value": "Lindo Metal Teclado",
+				"language": "pt_BR",
+				"_id": "62b08caeab1901e54cc6fdd9"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:05:10.706Z",
+		"updated_at": "2022-06-20T15:05:10.706Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b08cd1333202231c15cf91",
+		"slug": "ergonomic_rubber_car",
+		"names": [{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"value": "Rustic Metal Bike",
+				"language": "en",
+				"_id": "62b08cd18bb4502b91aed8c2"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Pequeño Algodón Gorro",
+				"language": "es",
+				"_id": "62b08cd18bb4502b91aed8c3"
+			},
+			{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"value": "Incrível Algodão Teclado",
+				"language": "pt_BR",
+				"_id": "62b08cd18bb4502b91aed8c4"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:05:45.473Z",
+		"updated_at": "2022-06-20T15:05:45.473Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b08cd1333202231c15cf92",
+		"slug": "lustroso_concreto_carro",
+		"names": [{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"value": "Rustic Fresh Car",
+				"language": "en",
+				"_id": "62b08cd18bb4502b91aed8c7"
+			},
+			{
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"value": "Rústico Algodón Bicicleta",
+				"language": "es",
+				"_id": "62b08cd18bb4502b91aed8c8"
+			},
+			{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Prático Madeira Salgadinhos",
+				"language": "pt_BR",
+				"_id": "62b08cd18bb4502b91aed8c9"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:05:45.473Z",
+		"updated_at": "2022-06-20T15:05:45.473Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b08cd1333202231c15cf93",
+		"slug": "rústico_metal_mouse",
+		"names": [{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Generic Fresh Bike",
+				"language": "en",
+				"_id": "62b08cd18bb4502b91aed8cd"
+			},
+			{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"value": "Artesanal Hormigon Teclado",
+				"language": "es",
+				"_id": "62b08cd18bb4502b91aed8ce"
+			},
+			{
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"value": "Inteligente Aço Peixe",
+				"language": "pt_BR",
+				"_id": "62b08cd18bb4502b91aed8cf"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:05:45.473Z",
+		"updated_at": "2022-06-20T15:05:45.473Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b08cd2333202231c15cf94",
+		"slug": "ergonômico_madeira_salgadinhos",
+		"names": [{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"value": "Handmade Rubber Chips",
+				"language": "en",
+				"_id": "62b08cd28bb4502b91aed8d8"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Increible Plástico Camiseta",
+				"language": "es",
+				"_id": "62b08cd28bb4502b91aed8d9"
+			},
+			{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Impressionante Aço Mesa",
+				"language": "pt_BR",
+				"_id": "62b08cd28bb4502b91aed8da"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:05:45.473Z",
+		"updated_at": "2022-06-20T15:05:45.473Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b08d2ac21eb43178250d5c",
+		"slug": "bespoke_granite_bacon",
+		"names": [{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"value": "Luxurious Fresh Mouse",
+				"language": "en",
+				"_id": "62b08d2a914ac328b9079cf6"
+			},
+			{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Guapo Granito Gorro",
+				"language": "es",
+				"_id": "62b08d2a914ac328b9079cf7"
+			},
+			{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"value": "Licenciado Algodão Bicicleta",
+				"language": "pt_BR",
+				"_id": "62b08d2a914ac328b9079cf8"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:07:15.645Z",
+		"updated_at": "2022-06-20T15:07:15.645Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b08d2ac21eb43178250d5d",
+		"slug": "fantástico_macio_mesa",
+		"names": [{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"value": "Gorgeous Frozen Chair",
+				"language": "en",
+				"_id": "62b08d2a914ac328b9079cfb"
+			},
+			{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"value": "Guapa Madera Silla",
+				"language": "es",
+				"_id": "62b08d2a914ac328b9079cfc"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Prático Aço Calças",
+				"language": "pt_BR",
+				"_id": "62b08d2a914ac328b9079cfd"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:07:15.645Z",
+		"updated_at": "2022-06-20T15:07:15.645Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b08d2bc21eb43178250d5e",
+		"slug": "rústico_granito_carro",
+		"names": [{
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"value": "Electronic Concrete Hat",
+				"language": "en",
+				"_id": "62b08d2b914ac328b9079d01"
+			},
+			{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"value": "Sabroso Hormigon Patatas fritas",
+				"language": "es",
+				"_id": "62b08d2b914ac328b9079d02"
+			},
+			{
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"value": "Lindo Borracha Salsicha",
+				"language": "pt_BR",
+				"_id": "62b08d2b914ac328b9079d03"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:07:15.645Z",
+		"updated_at": "2022-06-20T15:07:15.645Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b08d2bc21eb43178250d5f",
+		"slug": "gostoso_metal_calças",
+		"names": [{
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"value": "Awesome Concrete Table",
+				"language": "en",
+				"_id": "62b08d2b914ac328b9079d0c"
+			},
+			{
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"value": "Increible Acero Coche",
+				"language": "es",
+				"_id": "62b08d2b914ac328b9079d0d"
+			},
+			{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"value": "Prático Concreto Salgadinhos",
+				"language": "pt_BR",
+				"_id": "62b08d2b914ac328b9079d0e"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:07:15.645Z",
+		"updated_at": "2022-06-20T15:07:15.645Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b08dd2354f7c39e457f07f",
+		"slug": "handcrafted_metal_pants",
+		"names": [{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"value": "Fantastic Wooden Shoes",
+				"language": "en",
+				"_id": "62b08dd24708bdec97360218"
+			},
+			{
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"value": "Ergonómico Plástico Pescado",
+				"language": "es",
+				"_id": "62b08dd24708bdec97360219"
+			},
+			{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"value": "Lustroso Metal Teclado",
+				"language": "pt_BR",
+				"_id": "62b08dd24708bdec9736021a"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:10:02.979Z",
+		"updated_at": "2022-06-20T15:10:02.979Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b08dd2354f7c39e457f080",
+		"slug": "incrível_concreto_sapatos",
+		"names": [{
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"value": "Ergonomic Soft Keyboard",
+				"language": "en",
+				"_id": "62b08dd24708bdec9736021d"
+			},
+			{
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"value": "Refinado Plástico Bicicleta",
+				"language": "es",
+				"_id": "62b08dd24708bdec9736021e"
+			},
+			{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"value": "Feito à mão Granito Cadeira",
+				"language": "pt_BR",
+				"_id": "62b08dd24708bdec9736021f"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:10:02.979Z",
+		"updated_at": "2022-06-20T15:10:02.979Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b08dd2354f7c39e457f081",
+		"slug": "lindo_metal_salsicha",
+		"names": [{
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"value": "Tasty Bronze Hat",
+				"language": "en",
+				"_id": "62b08dd24708bdec97360223"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Ergonómico Acero Mesa",
+				"language": "es",
+				"_id": "62b08dd24708bdec97360224"
+			},
+			{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"value": "Fantástico Madeira Computador",
+				"language": "pt_BR",
+				"_id": "62b08dd24708bdec97360225"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:10:02.979Z",
+		"updated_at": "2022-06-20T15:10:02.979Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b08dd3354f7c39e457f082",
+		"slug": "incrível_concreto_atum",
+		"names": [{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Bespoke Frozen Ball",
+				"language": "en",
+				"_id": "62b08dd34708bdec9736022e"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Pequeño Metal Queso",
+				"language": "es",
+				"_id": "62b08dd34708bdec9736022f"
+			},
+			{
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"value": "Incrível Metal Pizza",
+				"language": "pt_BR",
+				"_id": "62b08dd34708bdec97360230"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:10:02.979Z",
+		"updated_at": "2022-06-20T15:10:02.979Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b090429a090549a8160c03",
+		"slug": "recycled_frozen_keyboard",
+		"names": [{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"value": "Unbranded Metal Fish",
+				"language": "en",
+				"_id": "62b09042536306ce53c69e05"
+			},
+			{
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"value": "Pequeño Plástico Gorro",
+				"language": "es",
+				"_id": "62b09042536306ce53c69e06"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Incrível Borracha Computador",
+				"language": "pt_BR",
+				"_id": "62b09042536306ce53c69e07"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:20:27.212Z",
+		"updated_at": "2022-06-20T15:20:27.212Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b090429a090549a8160c04",
+		"slug": "impressionante_granito_sapatos",
+		"names": [{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Ergonomic Metal Towels",
+				"language": "en",
+				"_id": "62b09042536306ce53c69e0a"
+			},
+			{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"value": "Hecho a mano Plástico Teclado",
+				"language": "es",
+				"_id": "62b09042536306ce53c69e0b"
+			},
+			{
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"value": "Fantástico Algodão Bacon",
+				"language": "pt_BR",
+				"_id": "62b09042536306ce53c69e0c"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:20:27.212Z",
+		"updated_at": "2022-06-20T15:20:27.212Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b090429a090549a8160c05",
+		"slug": "inteligente_borracha_bacon",
+		"names": [{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"value": "Incredible Soft Towels",
+				"language": "en",
+				"_id": "62b09042536306ce53c69e10"
+			},
+			{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Guapo Acero Pizza",
+				"language": "es",
+				"_id": "62b09042536306ce53c69e11"
+			},
+			{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"value": "Inteligente Madeira Salsicha",
+				"language": "pt_BR",
+				"_id": "62b09042536306ce53c69e12"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:20:27.212Z",
+		"updated_at": "2022-06-20T15:20:27.212Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b090439a090549a8160c06",
+		"slug": "inteligente_plástico_carro",
+		"names": [{
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"value": "Handmade Concrete Hat",
+				"language": "en",
+				"_id": "62b09043536306ce53c69e1b"
+			},
+			{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Práctico Hormigon Camiseta",
+				"language": "es",
+				"_id": "62b09043536306ce53c69e1c"
+			},
+			{
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"value": "Fantástico Aço Chapéu",
+				"language": "pt_BR",
+				"_id": "62b09043536306ce53c69e1d"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:20:27.212Z",
+		"updated_at": "2022-06-20T15:20:27.212Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b090c11b58120b98352655",
+		"slug": "intelligent_concrete_shoes",
+		"names": [{
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"value": "Handcrafted Plastic Chicken",
+				"language": "en",
+				"_id": "62b090c11c8f2e7976a6bd20"
+			},
+			{
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"value": "Ergonómico Metal Ordenador",
+				"language": "es",
+				"_id": "62b090c11c8f2e7976a6bd21"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Gostoso Aço Mesa",
+				"language": "pt_BR",
+				"_id": "62b090c11c8f2e7976a6bd22"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:22:33.990Z",
+		"updated_at": "2022-06-20T15:22:33.990Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b090c21b58120b98352656",
+		"slug": "prático_fresco_computador",
+		"names": [{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Gorgeous Steel Mouse",
+				"language": "en",
+				"_id": "62b090c21c8f2e7976a6bd25"
+			},
+			{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"value": "Guapa Granito Sopa",
+				"language": "es",
+				"_id": "62b090c21c8f2e7976a6bd26"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Impressionante Plástico Pizza",
+				"language": "pt_BR",
+				"_id": "62b090c21c8f2e7976a6bd27"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:22:33.990Z",
+		"updated_at": "2022-06-20T15:22:33.990Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b090c21b58120b98352657",
+		"slug": "inteligente_borracha_luvas",
+		"names": [{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Modern Concrete Chicken",
+				"language": "en",
+				"_id": "62b090c21c8f2e7976a6bd2b"
+			},
+			{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Fantástico Algodón Toallas",
+				"language": "es",
+				"_id": "62b090c21c8f2e7976a6bd2c"
+			},
+			{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Refinado Borracha Atum",
+				"language": "pt_BR",
+				"_id": "62b090c21c8f2e7976a6bd2d"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:22:33.990Z",
+		"updated_at": "2022-06-20T15:22:33.990Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b090c21b58120b98352658",
+		"slug": "rústico_fresco_teclado",
+		"names": [{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Handmade Soft Hat",
+				"language": "en",
+				"_id": "62b090c21c8f2e7976a6bd36"
+			},
+			{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Guapa Hormigon Raton",
+				"language": "es",
+				"_id": "62b090c21c8f2e7976a6bd37"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Lustroso Aço Queijo",
+				"language": "pt_BR",
+				"_id": "62b090c21c8f2e7976a6bd38"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:22:33.990Z",
+		"updated_at": "2022-06-20T15:22:33.990Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b0925e6e5dcd52e8407ed0",
+		"slug": "generic_steel_tuna",
+		"names": [{
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"value": "Practical Steel Gloves",
+				"language": "en",
+				"_id": "62b0925ed65cce8c38e1d99a"
+			},
+			{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Sabroso Acero Ordenador",
+				"language": "es",
+				"_id": "62b0925ed65cce8c38e1d99b"
+			},
+			{
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"value": "Refinado Macio Toalhas",
+				"language": "pt_BR",
+				"_id": "62b0925ed65cce8c38e1d99c"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:29:26.941Z",
+		"updated_at": "2022-06-20T15:29:26.941Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b0925e6e5dcd52e8407ed1",
+		"slug": "ergonômico_metal_sapatos",
+		"names": [{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"value": "Refined Plastic Soap",
+				"language": "en",
+				"_id": "62b0925ed65cce8c38e1d99f"
+			},
+			{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"value": "Increible Granito Coche",
+				"language": "es",
+				"_id": "62b0925ed65cce8c38e1d9a0"
+			},
+			{
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"value": "Lustroso Aço Cadeira",
+				"language": "pt_BR",
+				"_id": "62b0925ed65cce8c38e1d9a1"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:29:26.941Z",
+		"updated_at": "2022-06-20T15:29:26.941Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b0925f6e5dcd52e8407ed2",
+		"slug": "rústico_plástico_pizza",
+		"names": [{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"value": "Small Bronze Computer",
+				"language": "en",
+				"_id": "62b0925fd65cce8c38e1d9a5"
+			},
+			{
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"value": "Hecho a mano Granito Ensalada",
+				"language": "es",
+				"_id": "62b0925fd65cce8c38e1d9a6"
+			},
+			{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"value": "Lustroso Fresco Frango",
+				"language": "pt_BR",
+				"_id": "62b0925fd65cce8c38e1d9a7"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:29:26.941Z",
+		"updated_at": "2022-06-20T15:29:26.941Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b0925f6e5dcd52e8407ed3",
+		"slug": "pequeno_aço_salada",
+		"names": [{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Intelligent Plastic Salad",
+				"language": "en",
+				"_id": "62b0925fd65cce8c38e1d9b0"
+			},
+			{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"value": "Inteligente Ladrillo Mesa",
+				"language": "es",
+				"_id": "62b0925fd65cce8c38e1d9b1"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Rústico Macio Frango",
+				"language": "pt_BR",
+				"_id": "62b0925fd65cce8c38e1d9b2"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:29:26.941Z",
+		"updated_at": "2022-06-20T15:29:26.941Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b092a6cafda32c24c01a42",
+		"slug": "electronic_plastic_mouse",
+		"names": [{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"value": "Sleek Wooden Hat",
+				"language": "en",
+				"_id": "62b092a68676bee18ced079b"
+			},
+			{
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"value": "Genérico Acero Coche",
+				"language": "es",
+				"_id": "62b092a68676bee18ced079c"
+			},
+			{
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"value": "Ergonômico Macio Calças",
+				"language": "pt_BR",
+				"_id": "62b092a68676bee18ced079d"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:30:38.991Z",
+		"updated_at": "2022-06-20T15:30:38.991Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b092a6cafda32c24c01a43",
+		"slug": "sem_marca_macio_salsicha",
+		"names": [{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"value": "Sleek Rubber Bike",
+				"language": "en",
+				"_id": "62b092a68676bee18ced07a0"
+			},
+			{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"value": "Increible Metal Pescado",
+				"language": "es",
+				"_id": "62b092a68676bee18ced07a1"
+			},
+			{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"value": "Fantástico Metal Cadeira",
+				"language": "pt_BR",
+				"_id": "62b092a68676bee18ced07a2"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:30:38.991Z",
+		"updated_at": "2022-06-20T15:30:38.991Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b092a7cafda32c24c01a44",
+		"slug": "lindo_plástico_mesa",
+		"names": [{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Bespoke Plastic Shoes",
+				"language": "en",
+				"_id": "62b092a78676bee18ced07a6"
+			},
+			{
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"value": "Guapa Metal Coche",
+				"language": "es",
+				"_id": "62b092a78676bee18ced07a7"
+			},
+			{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"value": "Feito à mão Concreto Atum",
+				"language": "pt_BR",
+				"_id": "62b092a78676bee18ced07a8"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:30:38.991Z",
+		"updated_at": "2022-06-20T15:30:38.991Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b092a7cafda32c24c01a45",
+		"slug": "lindo_metal_cadeira",
+		"names": [{
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"value": "Modern Bronze Shirt",
+				"language": "en",
+				"_id": "62b092a78676bee18ced07b1"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Ergonómico Acero Raton",
+				"language": "es",
+				"_id": "62b092a78676bee18ced07b2"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Lustroso Granito Pizza",
+				"language": "pt_BR",
+				"_id": "62b092a78676bee18ced07b3"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:30:38.991Z",
+		"updated_at": "2022-06-20T15:30:38.991Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b092d12fb14f095cdeee53",
+		"slug": "small_soft_table",
+		"names": [{
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"value": "Unbranded Steel Fish",
+				"language": "en",
+				"_id": "62b092d117d9ca1f6133488a"
+			},
+			{
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"value": "Rústico Metal Pescado",
+				"language": "es",
+				"_id": "62b092d117d9ca1f6133488b"
+			},
+			{
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"value": "Rústico Metal Computador",
+				"language": "pt_BR",
+				"_id": "62b092d117d9ca1f6133488c"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:31:22.312Z",
+		"updated_at": "2022-06-20T15:31:22.312Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b092d12fb14f095cdeee54",
+		"slug": "ergonômico_granito_carro",
+		"names": [{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Intelligent Rubber Ball",
+				"language": "en",
+				"_id": "62b092d117d9ca1f6133488f"
+			},
+			{
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"value": "Rústico Plástico Toallas",
+				"language": "es",
+				"_id": "62b092d117d9ca1f61334890"
+			},
+			{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"value": "Prático Granito Peixe",
+				"language": "pt_BR",
+				"_id": "62b092d117d9ca1f61334891"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:31:22.312Z",
+		"updated_at": "2022-06-20T15:31:22.312Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b092d22fb14f095cdeee55",
+		"slug": "rústico_borracha_chapéu",
+		"names": [{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Recycled Fresh Sausages",
+				"language": "en",
+				"_id": "62b092d217d9ca1f61334895"
+			},
+			{
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"value": "Increible Algodón Pollo",
+				"language": "es",
+				"_id": "62b092d217d9ca1f61334896"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Pequeno Concreto Mouse",
+				"language": "pt_BR",
+				"_id": "62b092d217d9ca1f61334897"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:31:22.312Z",
+		"updated_at": "2022-06-20T15:31:22.312Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b092d22fb14f095cdeee56",
+		"slug": "licenciado_granito_mesa",
+		"names": [{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"value": "Ergonomic Rubber Pants",
+				"language": "en",
+				"_id": "62b092d217d9ca1f613348a0"
+			},
+			{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Guapa Plástico Gorro",
+				"language": "es",
+				"_id": "62b092d217d9ca1f613348a1"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Impressionante Plástico Carro",
+				"language": "pt_BR",
+				"_id": "62b092d217d9ca1f613348a2"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:31:22.312Z",
+		"updated_at": "2022-06-20T15:31:22.312Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b095518d536232704f738f",
+		"slug": "intelligent_soft_computer",
+		"names": [{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Recycled Cotton Ball",
+				"language": "en",
+				"_id": "62b095517ceb4c35e84ddaf2"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Inteligente Acero Pizza",
+				"language": "es",
+				"_id": "62b095517ceb4c35e84ddaf3"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Licenciado Fresco Queijo",
+				"language": "pt_BR",
+				"_id": "62b095517ceb4c35e84ddaf4"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:42:01.558Z",
+		"updated_at": "2022-06-20T15:42:01.558Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b095518d536232704f7390",
+		"slug": "incrível_borracha_mouse",
+		"names": [{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Unbranded Cotton Sausages",
+				"language": "en",
+				"_id": "62b095517ceb4c35e84ddaf7"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Fantástico Ladrillo Patatas fritas",
+				"language": "es",
+				"_id": "62b095517ceb4c35e84ddaf8"
+			},
+			{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"value": "Ergonômico Concreto Teclado",
+				"language": "pt_BR",
+				"_id": "62b095517ceb4c35e84ddaf9"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:42:01.558Z",
+		"updated_at": "2022-06-20T15:42:01.558Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b095518d536232704f7391",
+		"slug": "licenciado_fresco_queijo",
+		"names": [{
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"value": "Modern Steel Car",
+				"language": "en",
+				"_id": "62b095517ceb4c35e84ddafd"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Hecho a mano Algodón Silla",
+				"language": "es",
+				"_id": "62b095517ceb4c35e84ddafe"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Genérico Concreto Luvas",
+				"language": "pt_BR",
+				"_id": "62b095517ceb4c35e84ddaff"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:42:01.558Z",
+		"updated_at": "2022-06-20T15:42:01.558Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b095528d536232704f7392",
+		"slug": "licenciado_borracha_sapatos",
+		"names": [{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Recycled Soft Chips",
+				"language": "en",
+				"_id": "62b095527ceb4c35e84ddb08"
+			},
+			{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"value": "Genérico Madera Zapatos",
+				"language": "es",
+				"_id": "62b095527ceb4c35e84ddb09"
+			},
+			{
+				"description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+				"value": "Ergonômico Plástico Sabonete",
+				"language": "pt_BR",
+				"_id": "62b095527ceb4c35e84ddb0a"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T15:42:01.558Z",
+		"updated_at": "2022-06-20T15:42:01.558Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b0abfd40245c1c605dce12",
+		"slug": "generic_metal_car",
+		"names": [{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Rustic Steel Ball",
+				"language": "en",
+				"_id": "62b0abfda70594a3781366be"
+			},
+			{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"value": "Artesanal Granito Ensalada",
+				"language": "es",
+				"_id": "62b0abfda70594a3781366bf"
+			},
+			{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Refinado Concreto Salgadinhos",
+				"language": "pt_BR",
+				"_id": "62b0abfda70594a3781366c0"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T17:18:46.128Z",
+		"updated_at": "2022-06-20T17:18:46.128Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b0abfd40245c1c605dce13",
+		"slug": "sem_marca_borracha_bola",
+		"names": [{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"value": "Handcrafted Bronze Chair",
+				"language": "en",
+				"_id": "62b0abfda70594a3781366c3"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Guapo Granito Salchichas",
+				"language": "es",
+				"_id": "62b0abfda70594a3781366c4"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Incrível Plástico Camiseta",
+				"language": "pt_BR",
+				"_id": "62b0abfda70594a3781366c5"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T17:18:46.128Z",
+		"updated_at": "2022-06-20T17:18:46.128Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b0abfd40245c1c605dce14",
+		"slug": "refinado_concreto_salsicha",
+		"names": [{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Recycled Steel Car",
+				"language": "en",
+				"_id": "62b0abfda70594a3781366c9"
+			},
+			{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"value": "Artesanal Acero Pollo",
+				"language": "es",
+				"_id": "62b0abfda70594a3781366ca"
+			},
+			{
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"value": "Gostoso Granito Carro",
+				"language": "pt_BR",
+				"_id": "62b0abfda70594a3781366cb"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T17:18:46.128Z",
+		"updated_at": "2022-06-20T17:18:46.128Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b0abfd40245c1c605dce15",
+		"slug": "refinado_congelado_salada",
+		"names": [{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Elegant Granite Cheese",
+				"language": "en",
+				"_id": "62b0abfea70594a3781366d4"
+			},
+			{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Sabroso Acero Atún",
+				"language": "es",
+				"_id": "62b0abfea70594a3781366d5"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Lindo Algodão Queijo",
+				"language": "pt_BR",
+				"_id": "62b0abfea70594a3781366d6"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T17:18:46.128Z",
+		"updated_at": "2022-06-20T17:18:46.128Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b0af232a2f6a40f8fa270b",
+		"slug": "unbranded_rubber_bike",
+		"names": [{
+				"description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+				"value": "Fantastic Plastic Soap",
+				"language": "en",
+				"_id": "62b0af23df4e5d7b0d36e878"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Sorprendente Algodón Mesa",
+				"language": "es",
+				"_id": "62b0af23df4e5d7b0d36e879"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Sem marca Algodão Computador",
+				"language": "pt_BR",
+				"_id": "62b0af23df4e5d7b0d36e87a"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T17:32:12.379Z",
+		"updated_at": "2022-06-20T17:32:12.379Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b0af232a2f6a40f8fa270c",
+		"slug": "rústico_algodão_mesa",
+		"names": [{
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"value": "Awesome Steel Chair",
+				"language": "en",
+				"_id": "62b0af23df4e5d7b0d36e87d"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Hecho a mano Plástico Raton",
+				"language": "es",
+				"_id": "62b0af23df4e5d7b0d36e87e"
+			},
+			{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"value": "Incrível Metal Bicicleta",
+				"language": "pt_BR",
+				"_id": "62b0af23df4e5d7b0d36e87f"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T17:32:12.379Z",
+		"updated_at": "2022-06-20T17:32:12.379Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b0af232a2f6a40f8fa270d",
+		"slug": "gostoso_algodão_atum",
+		"names": [{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Incredible Steel Pants",
+				"language": "en",
+				"_id": "62b0af23df4e5d7b0d36e883"
+			},
+			{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"value": "Inteligente Granito Camiseta",
+				"language": "es",
+				"_id": "62b0af23df4e5d7b0d36e884"
+			},
+			{
+				"description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+				"value": "Sem marca Granito Frango",
+				"language": "pt_BR",
+				"_id": "62b0af23df4e5d7b0d36e885"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T17:32:12.379Z",
+		"updated_at": "2022-06-20T17:32:12.379Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b0af242a2f6a40f8fa270e",
+		"slug": "lindo_plástico_queijo",
+		"names": [{
+				"description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+				"value": "Fantastic Bronze Soap",
+				"language": "en",
+				"_id": "62b0af24df4e5d7b0d36e88e"
+			},
+			{
+				"description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+				"value": "Pequeño Algodón Bacon",
+				"language": "es",
+				"_id": "62b0af24df4e5d7b0d36e88f"
+			},
+			{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"value": "Feito à mão Concreto Bicicleta",
+				"language": "pt_BR",
+				"_id": "62b0af24df4e5d7b0d36e890"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T17:32:12.379Z",
+		"updated_at": "2022-06-20T17:32:12.379Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b0b0967e42663130bc0e9e",
+		"slug": "sleek_fresh_sausages",
+		"names": [{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Intelligent Soft Gloves",
+				"language": "en",
+				"_id": "62b0b0962ab9a052c5232dce"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Fantástico Madera Atún",
+				"language": "es",
+				"_id": "62b0b0962ab9a052c5232dcf"
+			},
+			{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Incrível Macio Sabonete",
+				"language": "pt_BR",
+				"_id": "62b0b0962ab9a052c5232dd0"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T17:38:22.888Z",
+		"updated_at": "2022-06-20T17:38:22.888Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b0b0967e42663130bc0e9f",
+		"slug": "fantástico_metal_frango",
+		"names": [{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Bespoke Steel Computer",
+				"language": "en",
+				"_id": "62b0b0962ab9a052c5232dd3"
+			},
+			{
+				"description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+				"value": "Pequeño Ladrillo Toallas",
+				"language": "es",
+				"_id": "62b0b0962ab9a052c5232dd4"
+			},
+			{
+				"description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+				"value": "Fantástico Aço Bola",
+				"language": "pt_BR",
+				"_id": "62b0b0962ab9a052c5232dd5"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T17:38:22.888Z",
+		"updated_at": "2022-06-20T17:38:22.888Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b0b0967e42663130bc0ea0",
+		"slug": "rústico_granito_salsicha",
+		"names": [{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Awesome Frozen Table",
+				"language": "en",
+				"_id": "62b0b0962ab9a052c5232dd9"
+			},
+			{
+				"description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+				"value": "Increible Hormigon Pescado",
+				"language": "es",
+				"_id": "62b0b0962ab9a052c5232dda"
+			},
+			{
+				"description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+				"value": "Prático Borracha Teclado",
+				"language": "pt_BR",
+				"_id": "62b0b0962ab9a052c5232ddb"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T17:38:22.888Z",
+		"updated_at": "2022-06-20T17:38:22.888Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	},
+	{
+		"_id": "62b0b0967e42663130bc0ea1",
+		"slug": "lustroso_concreto_calças",
+		"names": [{
+				"description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+				"value": "Oriental Frozen Bacon",
+				"language": "en",
+				"_id": "62b0b0972ab9a052c5232de4"
+			},
+			{
+				"description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+				"value": "Guapa Madera Salchichas",
+				"language": "es",
+				"_id": "62b0b0972ab9a052c5232de5"
+			},
+			{
+				"description": "The Football Is Good For Training And Recreational Purposes",
+				"value": "Licenciado Aço Frango",
+				"language": "pt_BR",
+				"_id": "62b0b0972ab9a052c5232de6"
+			}
+		],
+		"tasks": [],
+		"created_by": "618c068fc6e53f0069bfe884",
+		"created_at": "2022-06-20T17:38:22.888Z",
+		"updated_at": "2022-06-20T17:38:22.888Z",
+		"_partitionKey": "organization_id=e070c3d03a80387d1112a479"
+	}
+]

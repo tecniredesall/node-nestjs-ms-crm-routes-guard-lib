@@ -1,0 +1,346 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta charset="utf-8"> <!-- utf-8 works for most cases -->
+        <meta name="viewport" content="width=device-width"> <!-- Forcing initial-scale shouldn't be necessary -->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- Use the latest (edge) version of IE rendering engine -->
+        <title>
+            {{title}}
+        </title> <!-- The title tag shows in email notifications, like Android 4.4. -->
+
+        <!-- Web Font / @font-face : BEGIN -->
+        <!-- NOTE: If web fonts are not required, lines 9 - 26 can be safely removed. -->
+
+        <!-- Desktop Outlook chokes on web font references and defaults to Times New Roman, so we force a safe fallback font. -->
+        <!--[if mso]>
+<style>
+* {
+font-family: "Arial" ,sans-serif !important;
+}
+</style>
+<![endif]-->
+
+        <!-- All other clients get the webfont reference; some will render the font and others will silently fail to the fallbacks. More on that here: http://stylecampaign.com/blog/2015/02/webfont-support-in-email/ -->
+        <!--[if !mso]><!-->
+        <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+         <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800&display=swap" rel="stylesheet">
+        <!--<![endif]-->
+
+        <!-- Web Font / @font-face : END -->
+
+        <!-- CSS Reset -->
+        <style>
+
+            /* What it does: Remove spaces around the email design added by some email clients. */
+            /* Beware: It can remove the padding / margin and add a background color to the compose a reply window. */
+            html,
+            body {
+                margin: 0 auto !important;
+                padding: 0 !important;
+                height: 100% !important;
+                width: 100% !important;
+            }
+            body, table, td, a{font-family: 'Open Sans', sans-serif;}
+
+            /* What it does: Stops email clients resizing small text. */
+            * {
+                -ms-text-size-adjust: 100%;
+                -webkit-text-size-adjust: 100%;
+            }
+
+            /* What is does: Centers email on Android 4.4 */
+            div[style*="margin: 16px 0"] {
+                margin:0 !important;
+            }
+
+            /* What it does: Stops Outlook from adding extra spacing to tables. */
+            table,
+            td {
+                mso-table-lspace: 0pt !important;
+                mso-table-rspace: 0pt !important;
+            }
+
+            /* What it does: Fixes webkit padding issue. Fix for Yahoo mail table alignment bug. Applies table-layout to the first 2 tables then removes for anything nested deeper. */
+            table {
+                border-spacing: 0 !important;
+                border-collapse: collapse !important;
+                table-layout: fixed !important;
+                margin: 0 auto !important;
+                border-color: #e8e8ea;
+            }
+            table table table {
+                table-layout: auto; 
+            }
+
+            /* What it does: Uses a better rendering method when resizing images in IE. */
+            img {
+                -ms-interpolation-mode:bicubic;
+            }
+
+            /* What it does: A work-around for iOS meddling in triggered links. */
+            .mobile-link--footer a,
+            a[x-apple-data-detectors] {
+                color:inherit !important;
+                text-decoration: underline !important;
+            }
+
+        </style>
+
+        <!-- Progressive Enhancements -->
+        <style>
+
+            /*colores fondos*/
+            .bg-body{background-color: #f1f1f1 !important;}
+            .bg-color-1{background-color: #ffffff;}
+            .bg-color-2{background-color: #f4f4f4;}
+            .bg-color-3{background-color: #363636;}
+
+            /*titulos, textos*/
+            h1{font-size: 22px !important;}
+            h2{font-size: 19px !important;}
+            h3{font-size: 16px !important;}
+            h4{font-size: 16px !important;}
+            p{font-size: 13px !important; line-height: 22px;mso-height-rule: exactly;}
+            hr{border: 1px #000000 solid;}
+
+            .text-color-1{color: #1a1a2d !important;}
+            .text-color-2{color: #262930 !important;}
+            .text-color-3{color: #262930v !important;}
+            .text-color-4{color: #717773 !important;}
+
+            .text-r{ text-align: right !important;}
+            .text-l{ text-align: left !important;}
+            .text-j{ text-align: justify !important;}
+            .text-c{ text-align: center !important;}
+
+            .bg-img-1{
+                text-align: center; background-position: center center !important; background-size: cover !important;
+            }
+            
+            /*links*/
+            .link-1{
+                color: #3AAA00 !important;
+            }
+            .link-1:hover{
+                color: #bcbcbc !important; text-decoration: none;
+            }
+            .link-2 a{
+                color: #999999 !important;
+            }
+            .link-2:hover{
+                color: #666be3 !important;
+            }
+
+            /*botones*/
+            /* What it does: Hover styles for buttons */
+            .button-td,
+            .button-a {
+                transition: all 100ms ease-in;
+            }
+            .button-td {
+                border-radius: 23px; background: #222222; text-align: center;
+                transition: all 100ms ease-in;
+            }
+            .button-a {
+                background: #27A51F; border: 15px solid #27A51F; font-family: sans-serif; font-size: 13px; line-height: 1.1; text-align: center; text-decoration: none; display: block; border-radius: 4px; font-weight: 500;
+            }
+            .button-td:hover,
+            .button-a:hover {
+                background: #2AB221 !important;
+                border-color: #2AB221 !important;
+            }
+            .inner-padding{
+                padding: 0px 28px 0px 28px;
+            }
+            .inner-paddingtwo{
+                padding: 14px;
+            }
+            .footer-links{
+                padding: 40px 10px;width: 100%;font-size: 12px; font-family: sans-serif; mso-height-rule: exactly; line-height:18px; text-align: center; color: #888888;
+            }
+
+            /* Media Queries */
+            @media screen and (max-width: 600px) {
+
+                .email-container {
+                    width: 100% !important;
+                    margin: auto !important;
+                }
+
+                /* What it does: Forces elements to resize to the full width of their container. Useful for resizing images beyond their max-width. */
+                .fluid,
+                .fluid-centered {
+                    max-width: 100% !important;
+                    height: auto !important;
+                    margin-left: auto !important;
+                    margin-right: auto !important;
+                }
+                /* And center justify these ones. */
+                .fluid-centered {
+                    margin-left: auto !important;
+                    margin-right: auto !important;
+                }
+
+                /* What it does: Forces table cells into full-width rows. */
+                .stack-column,
+                .stack-column-center {
+                    display: block !important;
+                    width: 100% !important;
+                    max-width: 100% !important;
+                    direction: ltr !important;
+                }
+                /* And center justify these ones. */
+                .stack-column-center {
+                    text-align: center !important;
+                }
+
+                /* What it does: Generic utility class for centering. Useful for images, buttons, and nested tables. */
+                .center-on-narrow {
+                    text-align: center !important;
+                    display: block !important;
+                    margin-left: auto !important;
+                    margin-right: auto !important;
+                    float: none !important;
+                }
+                table.center-on-narrow {
+                    display: inline-block !important;
+                }
+
+            }
+
+            .textdescription {
+            font-size: 15px;
+            color: #484857;
+            
+            text-align: center;
+            line-height: 26px;
+            }
+
+
+            hr {
+                border: 1px solid #f5f5f5;
+                width: 97%;
+            }  
+
+            
+
+			.footertext {
+            margin: 24px 0px 24px 0px;
+    		font-size: 12px !important;
+    		color: #767681;
+    		}
+
+
+            .customer
+                {
+                  
+                  font-size : 12px;
+                  line-height : 22px;
+                  letter-spacing : 1.4px;
+                  color : #1a1a2d;
+                  font-weight: 500;
+                }
+
+
+          
+
+            
+
+
+        </style>
+
+    </head>
+    <body width="100%" style="margin: 0;" class="bg-body">
+        <center style="width: 100%;" class="bg-body">
+
+            <!-- Visually Hidden Preheader Text : BEGIN -->
+            <div style="display:none;font-size:1px;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;font-family: sans-serif;">
+                {{title}}
+            </div>
+            <!-- Visually Hidden Preheader Text : END -->
+
+            <!-- Email Header : BEGIN -->
+            <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center" width="600" style="margin: auto;" class="email-container">
+                <tr>
+                    <td style="padding: 10px 0; text-align: center">
+                    </td>
+                </tr>
+            </table>
+            <!-- Email Header : END -->
+
+            <!-- Email Body : BEGIN -->
+            <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center" width="600" style="margin: auto;" class="email-container">
+
+            <!-- LOGO & TITLE : BEGIN-->
+                <tr>
+                    <td bgcolor="#ffffff" align="center" valign="top" style="padding: 20px;">
+                        <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                            <tr>
+                                <!-- Column : BEGIN -->
+                                <td class="stack-column-center" valign="top">
+                                    <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="left">
+                                        <tr>
+                                            <td style="padding: 5px; text-align: left">
+                                                <img src="https://trumodity-br-assets.s3.amazonaws.com/email-images/logo.png" width="136" height="30" alt="alt_text" border="0" class="fluid">
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                                <!-- Column : END -->
+                                <!-- Column : BEGIN -->
+                                <td class="stack-column-center"  valign="top">
+                                    <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="right">
+                                        <tr>
+                                            <td style="padding: 15px 10px 10px 10px; text-align: left;" class="center-on-narrow">
+                                                <h3 class="customer" style="margin: 0px;">{{title}}
+                                                    </h3>    
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                                <!-- Column : END -->
+                            </tr>
+                        </table>
+                        <hr style="margin-top: 10px; margin-bottom: 10px;">
+
+                    </td>
+                </tr>
+               {{{body}}}
+
+            <!-- LOGO & TITLE : END-->
+                                  
+                <th style="background-color: #ffffff; Margin:0;color:#cc1f28;font-family:Inter,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.4em;margin:0;padding:24px;text-align:left;vertical-align:middle">
+                    Por razões de segurança, não reencaminhar este e-mail.
+                    <!-- ESP: Por razones de seguridad, no reenvíe este correo electrónico.
+                         ENG: For security reasons, please do not forward this email. --></th>
+                <tr style="background-color: #ffffff;">
+                    <td style="padding: 0 24px 10px; text-align: left;" class="center-on-narrow">
+                        <hr style="border: 0.4px #bababa solid; background-color: #ffffff;">
+                            <span class="spanbody" style="color: #6C7282; font-size:14px;"> Em caso de dúvida, por favor entrar em contato através do e-mail: 
+                                <!-- ESP: Si tiene dudas, por favor contáctenos por correo electrónico: 
+                                     ENG: In case of any question, please contact us by email:-->
+                            <a href="#" style="color: #234AFF; ">suporte@digibarter.com.br</a> ou <!-- ESP: o, ENG: or --> (11) 94440-1110.</span>
+                    </td>
+                </tr>
+       
+                 <!-- FOOTER NEGRO : BEGIN -->
+                <tr>
+                    <td bgcolor="#1A1A2D">
+                        
+                        <table>
+                        <tr>
+                            	<td align="center">
+                            		<p class="footertext">© 2022 DigiBarter – Política de privacidade. | © DigiBarter – Direitos reservados.</p>
+                            	</td>
+                        </tr>
+                        </table>
+                    </td>
+                </tr>
+                <!-- FOOTER NEGRO : BEGIN -->  
+
+            <!-- Email Footer : END -->
+
+        </center>
+    </body>
+</html>

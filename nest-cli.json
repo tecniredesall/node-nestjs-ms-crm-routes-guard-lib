@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/nest-cli",
+  "collection": "@nestjs/schematics",
+  "sourceRoot": "src",
+  "compilerOptions": {
+    "plugins": ["@nestjs/swagger"]
+  },
+  "projects": {
+    "gc-crm-routes-guard-lib": {
+      "type": "library",
+      "root": "libs/gc-crm-routes-guard-lib",
+      "entryFile": "index",
+      "sourceRoot": "libs/gc-crm-routes-guard-lib/src",
+      "compilerOptions": {
+        "tsConfigPath": "libs/gc-crm-routes-guard-lib/tsconfig.lib.json"
+      }
+    }
+  }
+}
